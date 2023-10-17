@@ -38,7 +38,11 @@ const saveAgendaData = async () => {
 
   await browser.close()
   
-  return data
+   const json = {
+    data,
+    timestamp: Date.now()
+  }
+  return json
 }
 
 // execute and persist data
