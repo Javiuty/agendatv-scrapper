@@ -190,6 +190,7 @@
           "Baloncesto",
           "Baloncesto",
           "Fútbol",
+          "F. Sala",
           "Fútbol",
           "Fútbol",
           "Fútbol",
@@ -207,6 +208,7 @@
           "21:00",
           "21:00",
           "21:00",
+          "21:00",
           "21:00"
         ],
         "competition": [
@@ -216,6 +218,7 @@
           "EUROLIGA",
           "EUROLIGA",
           "BUNDESLIGA",
+          "PRIMERA DIVISIÓN",
           "LIGUE 1",
           "CHAMPIONSHIP",
           "LALIGA EA SPORTS",
@@ -229,6 +232,7 @@
           "Anadolu Efes-Valencia Basket",
           "Barcelona-Bayern",
           "Borussia Dortmund-Werder Bremen",
+          "FS Valdepeñas-ElPozo Murcia",
           "Le Havre-Lens",
           "Rotherham-Ipswich",
           "Osasuna-Granada",
@@ -242,6 +246,7 @@
           "M+ Deportes 3",
           "M+ Deportes",
           "M+ Liga de Campeones",
+          "Teledeporte",
           "Eurosport 2",
           "DAZN 1",
           "GOL PLAY",
@@ -476,8 +481,10 @@
           "Motos",
           "Fútbol",
           "Fútbol",
+          "Fútbol",
           "Baloncesto",
           "Baloncesto",
+          "Fútbol",
           "Fútbol",
           "Fútbol",
           "Fútbol",
@@ -492,9 +499,11 @@
           "Fútbol",
           "Fútbol",
           "Balonmano",
+          "Fútbol",
           "Fórmula 1",
           "Fútbol",
-          "Fútbol"
+          "Fútbol",
+          "NFL"
         ],
         "hour": [
           "00:00",
@@ -505,9 +514,11 @@
           "12:00",
           "12:00",
           "12:30",
+          "12:30",
           "13:00",
           "14:00",
           "14:00",
+          "15:30",
           "16:00",
           "16:15",
           "16:15",
@@ -520,9 +531,11 @@
           "18:30",
           "18:30",
           "19:00",
+          "20:45",
           "21:00",
           "21:00",
-          "21:00"
+          "21:00",
+          "22:25"
         ],
         "competition": [
           "G.P. ESTADOS UNIDOS",
@@ -532,10 +545,12 @@
           "G.P. AUSTRALIA",
           "LIGA F",
           "LIGA F",
+          "SERIE A",
           "LIGA ENDESA",
           "LIGA ENDESA",
           "LALIGA EA SPORTS",
           "LALIGA HYPERMOTION",
+          "BUNDESLIGA",
           "LIGA F",
           "LALIGA EA SPORTS",
           "LALIGA HYPERMOTION",
@@ -548,9 +563,11 @@
           "LALIGA HYPERMOTION",
           "LALIGA HYPERMOTION",
           "LIGA ASOBAL",
+          "SERIE A",
           "G.P. ESTADOS UNIDOS",
           "LALIGA EA SPORTS",
-          "LALIGA HYPERMOTION"
+          "LALIGA HYPERMOTION",
+          "LIGA REGULAR"
         ],
         "teams": [
           "Austin (Sprint)",
@@ -560,10 +577,12 @@
           "MotoGP",
           "Athletic Club-Real Sociedad",
           "Madrid CFF-UDG Tenerife",
+          "Roma-Monza",
           "Barcelona-Bilbao Basket",
           "Lenovo Tenerife-Real Madrid",
           "Las Palmas-Rayo Vallecano",
           "Racing de Ferrol-Eldense",
+          "Colonia-Borussia M'gladbach",
           "Levante Las Planas-Sevilla",
           "Girona-Almería",
           "Huesca-Elche",
@@ -576,9 +595,11 @@
           "Albacete-Real Sporting",
           "Racing-Burgos CF",
           "Frigoríficos Morrazo-Sinfín",
+          "AC Milan-Juventus",
           "Austin",
           "Barcelona-Athletic Club",
-          "Real Valladolid-Andorra"
+          "Real Valladolid-Andorra",
+          "Kansas City Chiefs-Los Angeles Chargers"
         ],
         "channel": [
           "DAZN F1",
@@ -588,10 +609,12 @@
           "DAZN 1",
           "GOL PLAY",
           "DAZN",
+          "M+ Liga de Campeones",
           "M+ Deportes",
           "M+ Vamos",
           "M+ LALIGA TV",
           "LALIGA TV HYPERMOTION",
+          "M+ Liga de Campeones",
           "DAZN",
           "DAZN LALIGA",
           "LALIGA TV HYPERMOTION",
@@ -604,12 +627,14 @@
           "LALIGA TV HYPERMOTION",
           "LALIGA TV HYPERMOTION 2",
           "Teledeporte",
+          "M+ Vamos",
           "DAZN F1",
           "DAZN LALIGA",
-          "LALIGA TV HYPERMOTION"
+          "LALIGA TV HYPERMOTION",
+          "M+ Deportes"
         ]
       }
     }
   ],
-  "timestamp": 1697553816738
+  "timestamp": 1697559544610
 }
