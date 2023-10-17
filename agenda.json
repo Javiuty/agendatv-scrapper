@@ -1,86 +1,6 @@
 {
   "data": [
     {
-      "date": "Martes17 de Octubre de 2023",
-      "events": {
-        "discipline": [
-          "NFL",
-          "Ciclismo",
-          "Fútbol",
-          "Fútbol",
-          "Baloncesto",
-          "Balonmano",
-          "Waterpolo",
-          "F. Sala",
-          "Baloncesto",
-          "Baloncesto",
-          "Balonmano",
-          "F. Sala",
-          "Fútbol"
-        ],
-        "hour": [
-          "02:15",
-          "07:30",
-          "13:00",
-          "15:30",
-          "18:30",
-          "18:45",
-          "19:45",
-          "20:00",
-          "20:30",
-          "20:45",
-          "20:45",
-          "21:00",
-          "23:00"
-        ],
-        "competition": [
-          "LIGA REGULAR",
-          "TOUR GUANGXI",
-          "COPA DEL REY",
-          "CLASIFICACIÓN EUROPEO SUB-21",
-          "EUROLIGA",
-          "EUROPEAN LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "PRIMERA DIVISIÓN",
-          "EUROLIGA",
-          "EUROLIGA",
-          "EUROPEAN LEAGUE",
-          "PRIMERA DIVISIÓN",
-          "CLASIFICACIÓN MUNDIAL"
-        ],
-        "teams": [
-          "Los Angeles Chargers-Dallas Cowboys",
-          "Guilin-Guilin (168.3 km)",
-          "Sorteo 1ª Eliminatoria",
-          "Kazajistán-España",
-          "Partizan-Barcelona",
-          "Bjerringbro/Silkeborg-Ciudad de Logroño",
-          "Novi Beograd-Sabadell",
-          "ElPozo Murcia-Barcelona",
-          "Baskonia-Bayern",
-          "Real Madrid-Zalgiris Kaunas",
-          "Ciudad Encantada-Savehof",
-          "Manzanares FS-Real Betis",
-          "Venezuela-Chile"
-        ],
-        "channel": [
-          "M+ Vamos",
-          "Eurosport",
-          "Teledeporte",
-          "Teledeporte",
-          "M+ Deportes",
-          "DAZN 1",
-          "Teledeporte",
-          "Esport 3",
-          "M+ Deportes",
-          "M+ Vamos",
-          "DAZN 1",
-          "Teledeporte",
-          "M+ Liga de Campeones"
-        ]
-      }
-    },
-    {
       "date": "Miércoles18 de Octubre de 2023",
       "events": {
         "discipline": [
@@ -636,5 +556,5 @@
       }
     }
   ],
-  "timestamp": 1697573702351
+  "timestamp": 1697580820463
 }
