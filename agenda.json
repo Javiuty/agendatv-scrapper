@@ -1,76 +1,6 @@
 {
   "data": [
     {
-      "date": "Miércoles18 de Octubre de 2023",
-      "events": {
-        "discipline": [
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Baloncesto",
-          "Balonmano",
-          "Fútbol",
-          "Waterpolo",
-          "Baloncesto",
-          "Baloncesto"
-        ],
-        "hour": [
-          "00:30",
-          "01:30",
-          "02:00",
-          "04:00",
-          "13:00",
-          "18:00",
-          "18:45",
-          "19:30",
-          "20:00",
-          "20:30",
-          "20:30"
-        ],
-        "competition": [
-          "CLASIFICACIÓN MUNDIAL",
-          "CLASIFICACIÓN MUNDIAL",
-          "CLASIFICACIÓN MUNDIAL",
-          "CLASIFICACIÓN MUNDIAL",
-          "COPA DE LA REINA",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE FEMENINA",
-          "CHAMPIONS LEAGUE",
-          "EUROLIGA",
-          "EUROCUP"
-        ],
-        "teams": [
-          "Paraguay-Bolivia",
-          "Ecuador-Colombia",
-          "Uruguay-Brasil",
-          "Perú-Argentina",
-          "Sorteo 3ª Eliminatoria",
-          "Szombathely-Unicaja",
-          "Celje-Barcelona",
-          "Vålerenga-Real Madrid",
-          "Barceloneta-Marsella",
-          "Valencia Basket-Maccabi Tel Aviv",
-          "Joventut-BC Wolves"
-        ],
-        "channel": [
-          "M+ Liga de Campeones 2",
-          "M+ Liga de Campeones 3",
-          "M+ Liga de Campeones",
-          "M+ Liga de Campeones 2",
-          "Teledeporte",
-          "Teledeporte",
-          "DAZN 1",
-          "Real Madrid TV",
-          "Teledeporte",
-          "M+ Vamos",
-          "Esport 3"
-        ]
-      }
-    },
-    {
       "date": "Jueves19 de Octubre de 2023",
       "events": {
         "discipline": [
@@ -571,5 +501,5 @@
       }
     }
   ],
-  "timestamp": 1697653159355
+  "timestamp": 1697660093364
 }
