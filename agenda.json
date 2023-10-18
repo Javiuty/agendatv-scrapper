@@ -180,6 +180,7 @@
       "events": {
         "discipline": [
           "Motos",
+          "Hockey",
           "Fútbol",
           "Fútbol",
           "Fútbol",
@@ -198,6 +199,7 @@
           "Fútbol",
           "Fútbol",
           "Fútbol",
+          "Balonmano",
           "Fútbol",
           "Fútbol",
           "Fútbol",
@@ -222,6 +224,7 @@
         ],
         "hour": [
           "06:00",
+          "11:00",
           "12:00",
           "12:00",
           "13:30",
@@ -240,6 +243,7 @@
           "16:15",
           "16:15",
           "16:15",
+          "17:00",
           "17:00",
           "17:00",
           "18:00",
@@ -264,6 +268,7 @@
         ],
         "competition": [
           "G.P. AUSTRALIA",
+          "LIGA IBERDROLA FEMENINA",
           "LIGA F",
           "LIGA F",
           "PREMIER LEAGUE",
@@ -282,6 +287,7 @@
           "LALIGA EA SPORTS",
           "LALIGA HYPERMOTION",
           "LALIGA HYPERMOTION",
+          "DIVISIÓN DE HONOR FEMENINA",
           "SAUDI PRO LEAGUE",
           "LIGUE 1",
           "SERIE A",
@@ -306,6 +312,7 @@
         ],
         "teams": [
           "MotoGP (Sprint)",
+          "Egara-Campo",
           "Real Betis-Valencia",
           "Eibar-Villarreal",
           "Liverpool-Everton",
@@ -324,6 +331,7 @@
           "Getafe-Real Betis",
           "Amorebieta-Real Oviedo",
           "Villarreal B-Mirandés",
+          "Elda-Guardes",
           "Al Nassr Riyadh-Damac",
           "PSG-Estrasburgo",
           "Torino-Inter",
@@ -348,6 +356,7 @@
         ],
         "channel": [
           "DAZN 1",
+          "Teledeporte",
           "DAZN",
           "DAZN",
           "DAZN 1",
@@ -366,6 +375,7 @@
           "DAZN LALIGA",
           "LALIGA TV HYPERMOTION",
           "LALIGA TV HYPERMOTION 2",
+          "Teledeporte",
           "Marca.com",
           "Eurosport 2",
           "M+ Liga de Campeones 2",
@@ -419,6 +429,7 @@
           "Fútbol",
           "Fútbol",
           "Balonmano",
+          "NFL",
           "Fútbol",
           "Fórmula 1",
           "Fútbol",
@@ -450,6 +461,7 @@
           "18:30",
           "18:30",
           "18:30",
+          "19:00",
           "19:00",
           "20:45",
           "21:00",
@@ -483,6 +495,7 @@
           "LALIGA HYPERMOTION",
           "LALIGA HYPERMOTION",
           "LIGA ASOBAL",
+          "LIGA REGULAR",
           "SERIE A",
           "G.P. ESTADOS UNIDOS",
           "LALIGA EA SPORTS",
@@ -515,6 +528,7 @@
           "Albacete-Real Sporting",
           "Racing-Burgos CF",
           "Frigoríficos Morrazo-Sinfín",
+          "Baltimore Ravens-Detroit Lions",
           "AC Milan-Juventus",
           "Austin",
           "Barcelona-Athletic Club",
@@ -547,6 +561,7 @@
           "LALIGA TV HYPERMOTION",
           "LALIGA TV HYPERMOTION 2",
           "Teledeporte",
+          "M+ Deportes 5",
           "M+ Vamos",
           "DAZN F1",
           "DAZN LALIGA",
@@ -556,5 +571,5 @@
       }
     }
   ],
-  "timestamp": 1697638418646
+  "timestamp": 1697645962889
 }
