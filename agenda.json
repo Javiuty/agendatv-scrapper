@@ -1,36 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves19 de Octubre de 2023",
-      "events": {
-        "discipline": [
-          "Baloncesto",
-          "Baloncesto",
-          "Baloncesto"
-        ],
-        "hour": [
-          "19:00",
-          "20:30",
-          "20:45"
-        ],
-        "competition": [
-          "EUROCUP FEMENINA",
-          "EUROLIGA",
-          "EUROLIGA"
-        ],
-        "teams": [
-          "Gorzow-Uni Girona",
-          "Baskonia-Zalgiris Kaunas",
-          "Real Madrid-Olimpia Milano"
-        ],
-        "channel": [
-          "Esport 3",
-          "M+ Deportes",
-          "M+ Vamos"
-        ]
-      }
-    },
-    {
       "date": "Viernes20 de Octubre de 2023",
       "events": {
         "discipline": [
@@ -147,6 +117,7 @@
           "Baloncesto",
           "Baloncesto",
           "Fútbol",
+          "Fútbol",
           "F. Sala",
           "Rugby",
           "Fútbol",
@@ -194,6 +165,7 @@
           "21:00",
           "21:00",
           "21:00",
+          "21:00",
           "21:00"
         ],
         "competition": [
@@ -234,6 +206,7 @@
           "SERIE A",
           "LIGA ENDESA",
           "LIGA ENDESA",
+          "EREDIVISIE",
           "PREMIER LEAGUE",
           "PRIMERA DIVISIÓN",
           "COPA DEL MUNDO",
@@ -278,6 +251,7 @@
           "Sassuolo-Lazio",
           "Obradoiro-Basquet Girona",
           "UCAM Murcia-Gran Canaria",
+          "Feyenoord-Vitesse",
           "Sheffield Utd-Manchester Utd",
           "Barcelona-Jaén",
           "Inglaterra-Sudáfrica",
@@ -322,6 +296,7 @@
           "M+ Liga de Campeones",
           "M+ Deportes 2",
           "M+ Deportes",
+          "M+ Liga de Campeones 2",
           "DAZN 1",
           "Esport 3",
           "M+ Vamos",
@@ -344,6 +319,7 @@
           "Fútbol",
           "Baloncesto",
           "Baloncesto",
+          "Rugby",
           "Fútbol",
           "Fútbol",
           "Fútbol",
@@ -376,6 +352,7 @@
           "12:00",
           "12:30",
           "12:30",
+          "13:00",
           "13:00",
           "14:00",
           "14:00",
@@ -410,6 +387,7 @@
           "SERIE A",
           "LIGA ENDESA",
           "LIGA ENDESA",
+          "DIVISIÓN DE HONOR",
           "LALIGA EA SPORTS",
           "LALIGA HYPERMOTION",
           "BUNDESLIGA",
@@ -443,6 +421,7 @@
           "Roma-Monza",
           "Barcelona-Bilbao Basket",
           "Lenovo Tenerife-Real Madrid",
+          "UE Santboiana-Barcelona",
           "Las Palmas-Rayo Vallecano",
           "Racing de Ferrol-Eldense",
           "Colonia-Borussia M'gladbach",
@@ -476,6 +455,7 @@
           "M+ Liga de Campeones",
           "M+ Deportes",
           "M+ Vamos",
+          "Teledeporte",
           "M+ LALIGA TV",
           "LALIGA TV HYPERMOTION",
           "M+ Liga de Campeones",
@@ -501,5 +481,5 @@
       }
     }
   ],
-  "timestamp": 1697739521679
+  "timestamp": 1697746497612
 }
