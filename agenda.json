@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "date": "Viernes20 de Octubre de 2023",
-      "events": {
-        "discipline": [
-          "NFL",
-          "Fútbol",
-          "Fútbol",
-          "Baloncesto",
-          "Baloncesto",
-          "Fútbol",
-          "F. Sala",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Rugby"
-        ],
-        "hour": [
-          "02:15",
-          "13:00",
-          "17:00",
-          "19:30",
-          "20:30",
-          "20:30",
-          "21:00",
-          "21:00",
-          "21:00",
-          "21:00",
-          "21:00",
-          "21:00"
-        ],
-        "competition": [
-          "LIGA REGULAR",
-          "CHAMPIONS LEAGUE FEMENINA",
-          "SAUDI PRO LEAGUE",
-          "EUROLIGA",
-          "EUROLIGA",
-          "BUNDESLIGA",
-          "PRIMERA DIVISIÓN",
-          "LIGUE 1",
-          "CHAMPIONSHIP",
-          "LALIGA EA SPORTS",
-          "LALIGA HYPERMOTION",
-          "COPA DEL MUNDO"
-        ],
-        "teams": [
-          "New Orleans Saints-Jacksonville Jaguars",
-          "Sorteo Fase de Grupos",
-          "Al-Taawon-Al-Ittihad FC",
-          "Anadolu Efes-Valencia Basket",
-          "Barcelona-Bayern",
-          "Borussia Dortmund-Werder Bremen",
-          "FS Valdepeñas-ElPozo Murcia",
-          "Le Havre-Lens",
-          "Rotherham-Ipswich",
-          "Osasuna-Granada",
-          "Espanyol-Leganés",
-          "Argentina-Nueva Zelanda"
-        ],
-        "channel": [
-          "M+ Deportes",
-          "DAZN",
-          "Marca.com",
-          "M+ Deportes 3",
-          "M+ Deportes",
-          "M+ Liga de Campeones",
-          "Teledeporte",
-          "Eurosport 2",
-          "DAZN 1",
-          "GOL PLAY",
-          "M+ Vamos",
-          "M+ Deportes 2"
-        ]
-      }
-    },
-    {
       "date": "Sábado21 de Octubre de 2023",
       "events": {
         "discipline": [
@@ -481,5 +406,5 @@
       }
     }
   ],
-  "timestamp": 1697832863039
+  "timestamp": 1697839987447
 }
