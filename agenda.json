@@ -174,7 +174,142 @@
           "M+ Deportes"
         ]
       }
+    },
+    {
+      "date": "Lunes23 de Octubre de 2023",
+      "events": {
+        "discipline": [
+          "NFL",
+          "Fútbol",
+          "Fútbol",
+          "Fútbol"
+        ],
+        "hour": [
+          "02:20",
+          "21:00",
+          "21:00",
+          "21:00"
+        ],
+        "competition": [
+          "LIGA REGULAR",
+          "PREMIER LEAGUE",
+          "LALIGA EA SPORTS",
+          "LALIGA HYPERMOTION"
+        ],
+        "teams": [
+          "Philadelphia Eagles-Miami Dolphins",
+          "Tottenham-Fulham",
+          "Valencia-Cádiz",
+          "Alcorcón-Cartagena"
+        ],
+        "channel": [
+          "M+ Deportes",
+          "DAZN 1",
+          "DAZN LALIGA",
+          "LALIGA TV HYPERMOTION"
+        ]
+      }
+    },
+    {
+      "date": "Martes24 de Octubre de 2023",
+      "events": {
+        "discipline": [
+          "NFL",
+          "Fútbol",
+          "Fútbol",
+          "Fútbol",
+          "Baloncesto",
+          "Fútbol",
+          "Fútbol",
+          "Baloncesto",
+          "Balonmano",
+          "Balonmano",
+          "Fútbol",
+          "Fútbol",
+          "Fútbol",
+          "Fútbol",
+          "Fútbol",
+          "Fútbol",
+          "Fútbol"
+        ],
+        "hour": [
+          "02:15",
+          "14:00",
+          "16:00",
+          "16:00",
+          "18:00",
+          "18:45",
+          "18:45",
+          "20:00",
+          "20:45",
+          "20:45",
+          "21:00",
+          "21:00",
+          "21:00",
+          "21:00",
+          "21:00",
+          "21:00",
+          "21:00"
+        ],
+        "competition": [
+          "LIGA REGULAR",
+          "UEFA YOUTH LEAGUE",
+          "UEFA YOUTH LEAGUE",
+          "UEFA YOUTH LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "EUROCUP",
+          "EUROPEAN LEAGUE",
+          "EUROPEAN LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "CHAMPIONSHIP"
+        ],
+        "teams": [
+          "Minnesota Vikings-San Francisco 49ers",
+          "Sevilla-Arsenal",
+          "Braga-Real Madrid",
+          "Benfica-Real Sociedad",
+          "Darussafaka-Lenovo Tenerife",
+          "Galatasaray-Bayern Múnich",
+          "Inter-Salzburgo",
+          "Reyer Venezia-Joventut",
+          "Ciudad de Logroño-Alkaloid",
+          "Pfadi Winterthur-Ciudad Encantada",
+          "Manchester Utd-Copenhague",
+          "Sevilla-Arsenal",
+          "Lens-PSV",
+          "Unión Berlín-Nápoles",
+          "SC Braga-Real Madrid",
+          "Benfica-Real Sociedad",
+          "Leicester-Sunderland"
+        ],
+        "channel": [
+          "M+ Vamos",
+          "M+ Liga de Campeones",
+          "M+ Vamos",
+          "M+ Liga de Campeones",
+          "Teledeporte",
+          "M+ Liga de Campeones 2",
+          "M+ Liga de Campeones 3",
+          "Esport 3",
+          "DAZN 3",
+          "DAZN 2",
+          "M+ Liga de Campeones 6",
+          "M+ Liga de Campeones 2",
+          "M+ Liga de Campeones 7",
+          "M+ Liga de Campeones 5",
+          "M+ Liga de Campeones",
+          "M+ Liga de Campeones 3",
+          "DAZN 1"
+        ]
+      }
     }
   ],
-  "timestamp": 1697983918653
+  "timestamp": 1697991440164
 }
