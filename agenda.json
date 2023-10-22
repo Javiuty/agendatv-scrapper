@@ -214,7 +214,107 @@
           "DAZN 1"
         ]
       }
+    },
+    {
+      "date": "Jueves26 de Octubre de 2023",
+      "events": {
+        "discipline": [
+          "NBA",
+          "Fútbol",
+          "Balonmano",
+          "Baloncesto"
+        ],
+        "hour": [
+          "01:30",
+          "18:45",
+          "20:45",
+          "20:45"
+        ],
+        "competition": [
+          "LIGA REGULAR",
+          "EUROPA LEAGUE",
+          "CHAMPIONS LEAGUE",
+          "EUROLIGA"
+        ],
+        "teams": [
+          "Miami Heat-Detroit Pistons",
+          "Aris-Real Betis",
+          "Barcelona-Telekom Veszprem",
+          "Real Madrid-Barcelona"
+        ],
+        "channel": [
+          "M+ Deportes",
+          "Cuatro",
+          "DAZN 1",
+          "M+ Vamos"
+        ]
+      }
+    },
+    {
+      "date": "Viernes27 de Octubre de 2023",
+      "events": {
+        "discipline": [
+          "NBA",
+          "Fútbol",
+          "Baloncesto",
+          "Baloncesto",
+          "Fútbol",
+          "Fútbol",
+          "Rugby",
+          "Fútbol",
+          "Fútbol",
+          "Balonmano"
+        ],
+        "hour": [
+          "01:30",
+          "17:45",
+          "19:00",
+          "20:15",
+          "21:00",
+          "21:00",
+          "21:00",
+          "21:00",
+          "21:00",
+          "21:30"
+        ],
+        "competition": [
+          "LIGA REGULAR",
+          "NATIONS LEAGUE FEMENINA",
+          "EUROLIGA",
+          "EUROLIGA",
+          "PREMIER LEAGUE",
+          "LIGUE 1",
+          "COPA DEL MUNDO",
+          "LALIGA EA SPORTS",
+          "LALIGA HYPERMOTION",
+          "LIGA ASOBAL"
+        ],
+        "teams": [
+          "Milwaukee Bucks-Philadelphia 76ers",
+          "Italia-España",
+          "Zalgiris Kaunas-Valencia Basket",
+          "Panathinaikos-Baskonia",
+          "Crystal Palace-Tottenham",
+          "Clermont-Niza",
+          "Argentina-Inglaterra",
+          "Girona-Celta de Vigo",
+          "Eibar-Real Valladolid",
+          "Benidorm-Torrelavega"
+        ],
+        "channel": [
+          "M+ Deportes",
+          "Teledeporte",
+          "M+ Deportes 4",
+          "M+ Deportes",
+          "DAZN 1",
+          "Eurosport 2",
+          "M+ Deportes 2",
+          "GOL PLAY",
+          "M+ Vamos",
+          "Teledeporte"
+        ]
+      }
     }
   ],
-  "timestamp": 1698005628591
+  "timestamp": 1698012744114
 }
