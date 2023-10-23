@@ -1,41 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes23 de Octubre de 2023",
-      "events": {
-        "discipline": [
-          "NFL",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol"
-        ],
-        "hour": [
-          "02:20",
-          "21:00",
-          "21:00",
-          "21:00"
-        ],
-        "competition": [
-          "LIGA REGULAR",
-          "PREMIER LEAGUE",
-          "LALIGA EA SPORTS",
-          "LALIGA HYPERMOTION"
-        ],
-        "teams": [
-          "Philadelphia Eagles-Miami Dolphins",
-          "Tottenham-Fulham",
-          "Valencia-Cádiz",
-          "Alcorcón-Cartagena"
-        ],
-        "channel": [
-          "M+ Deportes",
-          "DAZN 1",
-          "DAZN LALIGA",
-          "LALIGA TV HYPERMOTION"
-        ]
-      }
-    },
-    {
       "date": "Martes24 de Octubre de 2023",
       "events": {
         "discipline": [
@@ -661,5 +626,5 @@
       }
     }
   ],
-  "timestamp": 1698085075992
+  "timestamp": 1698099185119
 }
