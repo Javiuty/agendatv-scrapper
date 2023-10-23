@@ -263,6 +263,7 @@
           "Rugby",
           "Fútbol",
           "Fútbol",
+          "F. Sala",
           "Balonmano"
         ],
         "hour": [
@@ -270,6 +271,7 @@
           "17:45",
           "19:00",
           "20:15",
+          "21:00",
           "21:00",
           "21:00",
           "21:00",
@@ -287,6 +289,7 @@
           "COPA DEL MUNDO",
           "LALIGA EA SPORTS",
           "LALIGA HYPERMOTION",
+          "PRIMERA DIVISIÓN",
           "LIGA ASOBAL"
         ],
         "teams": [
@@ -299,11 +302,12 @@
           "Argentina-Inglaterra",
           "Girona-Celta de Vigo",
           "Eibar-Real Valladolid",
+          "Industrias Santa Coloma-Córdoba",
           "Benidorm-Torrelavega"
         ],
         "channel": [
           "M+ Deportes",
-          "Teledeporte",
+          "LA 1",
           "M+ Deportes 4",
           "M+ Deportes",
           "DAZN 1",
@@ -311,10 +315,11 @@
           "M+ Deportes 2",
           "GOL PLAY",
           "M+ Vamos",
+          "Esport 3",
           "Teledeporte"
         ]
       }
     }
   ],
-  "timestamp": 1698064101803
+  "timestamp": 1698070425746
 }
