@@ -108,6 +108,7 @@
           "NBA",
           "Ciclismo",
           "Fútbol",
+          "F. Sala",
           "Fútbol",
           "Fútbol",
           "Fútbol",
@@ -123,6 +124,7 @@
           "04:00",
           "11:30",
           "14:00",
+          "17:30",
           "18:45",
           "18:45",
           "21:00",
@@ -138,6 +140,7 @@
           "LIGA REGULAR",
           "TOUR DE FRANCIA",
           "UEFA YOUTH LEAGUE",
+          "UEFA FUTSAL CHAMPIONS LEAGUE",
           "CHAMPIONS LEAGUE",
           "CHAMPIONS LEAGUE",
           "CHAMPIONS LEAGUE",
@@ -153,6 +156,7 @@
           "Golden State Warriors-Phoenix Suns",
           "Presentación Recorrido 2024",
           "Barcelona-Shakhtar",
+          "Barcelona-St Andrews",
           "Feyenoord-Lazio",
           "Barcelona-Shakhtar",
           "Celtic-Atlético de Madrid",
@@ -168,6 +172,7 @@
           "Movistar Plus+",
           "Teledeporte",
           "M+ Liga de Campeones",
+          "Esport 3",
           "M+ Liga de Campeones 3",
           "M+ Liga de Campeones",
           "M+ Liga de Campeones",
@@ -185,30 +190,35 @@
       "events": {
         "discipline": [
           "NBA",
+          "F. Sala",
           "Fútbol",
           "Balonmano",
           "Baloncesto"
         ],
         "hour": [
           "01:30",
+          "17:30",
           "18:45",
           "20:45",
           "20:45"
         ],
         "competition": [
           "LIGA REGULAR",
+          "UEFA FUTSAL CHAMPIONS LEAGUE",
           "EUROPA LEAGUE",
           "CHAMPIONS LEAGUE",
           "EUROLIGA"
         ],
         "teams": [
           "Miami Heat-Detroit Pistons",
+          "Anderlecht-Barcelona",
           "Aris-Real Betis",
           "Barcelona-Telekom Veszprem",
           "Real Madrid-Barcelona"
         ],
         "channel": [
           "M+ Deportes",
+          "Esport 3",
           "Cuatro",
           "DAZN 1",
           "M+ Vamos"
@@ -311,6 +321,7 @@
           "Baloncesto",
           "Baloncesto",
           "Boxeo",
+          "F. Sala",
           "Baloncesto",
           "Fútbol",
           "Rugby",
@@ -341,6 +352,7 @@
           "18:45",
           "19:00",
           "19:00",
+          "20:30",
           "20:45",
           "20:45",
           "21:00",
@@ -371,6 +383,7 @@
           "LIGA ENDESA",
           "LIGA FEMENINA",
           "PESO PESADO - MASCULINO",
+          "UEFA FUTSAL CHAMPIONS LEAGUE",
           "LIGA ENDESA",
           "SERIE A",
           "COPA DEL MUNDO",
@@ -401,6 +414,7 @@
           "Basquet Girona-UCAM Murcia",
           "Araski-Ensino",
           "Fury-Ngannou",
+          "Loznica-Barcelona",
           "Gran Canaria-Obradoiro",
           "Juventus-Verona",
           "Nueva Zelanda-Sudáfrica",
@@ -431,6 +445,7 @@
           "M+ Deportes 2",
           "Teledeporte",
           "DAZN",
+          "Esport 3",
           "M+ Deportes",
           "M+ Liga de Campeones",
           "M+ Vamos",
@@ -626,5 +641,5 @@
       }
     }
   ],
-  "timestamp": 1698150440824
+  "timestamp": 1698156735310
 }
