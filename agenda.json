@@ -492,7 +492,8 @@
           "Fútbol",
           "Fórmula 1",
           "Fútbol",
-          "Fútbol"
+          "Fútbol",
+          "NFL"
         ],
         "hour": [
           "01:00",
@@ -528,7 +529,8 @@
           "20:45",
           "21:00",
           "21:00",
-          "21:00"
+          "21:00",
+          "21:25"
         ],
         "competition": [
           "LIGA REGULAR",
@@ -564,7 +566,8 @@
           "SERIE A",
           "G.P. MÉXICO",
           "LALIGA EA SPORTS",
-          "LALIGA HYPERMOTION"
+          "LALIGA HYPERMOTION",
+          "LIGA REGULAR"
         ],
         "teams": [
           "New Orleans Pelicans-New York Knicks",
@@ -600,7 +603,8 @@
           "Nápoles-AC Milan",
           "Autódromo Hermanos Rodríguez",
           "Atlético de Madrid-Alavés",
-          "Racing-Racing de Ferrol"
+          "Racing-Racing de Ferrol",
+          "San Francisco 49ers-Cincinnati Bengals"
         ],
         "channel": [
           "M+ Deportes",
@@ -636,10 +640,11 @@
           "M+ Liga de Campeones",
           "DAZN F1",
           "M+ LALIGA TV",
-          "LALIGA TV HYPERMOTION"
+          "LALIGA TV HYPERMOTION",
+          "M+ Deportes"
         ]
       }
     }
   ],
-  "timestamp": 1698171533628
+  "timestamp": 1698178491528
 }
