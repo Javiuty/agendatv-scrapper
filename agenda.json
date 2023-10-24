@@ -1,106 +1,6 @@
 {
   "data": [
     {
-      "date": "Martes24 de Octubre de 2023",
-      "events": {
-        "discipline": [
-          "NFL",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Baloncesto",
-          "Fútbol",
-          "Fútbol",
-          "Baloncesto",
-          "Balonmano",
-          "Balonmano",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol",
-          "Fútbol"
-        ],
-        "hour": [
-          "02:15",
-          "14:00",
-          "16:00",
-          "16:00",
-          "18:00",
-          "18:45",
-          "18:45",
-          "20:00",
-          "20:45",
-          "20:45",
-          "21:00",
-          "21:00",
-          "21:00",
-          "21:00",
-          "21:00",
-          "21:00",
-          "21:00"
-        ],
-        "competition": [
-          "LIGA REGULAR",
-          "UEFA YOUTH LEAGUE",
-          "UEFA YOUTH LEAGUE",
-          "UEFA YOUTH LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "EUROCUP",
-          "EUROPEAN LEAGUE",
-          "EUROPEAN LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "CHAMPIONSHIP"
-        ],
-        "teams": [
-          "Minnesota Vikings-San Francisco 49ers",
-          "Sevilla-Arsenal",
-          "Braga-Real Madrid",
-          "Benfica-Real Sociedad",
-          "Darussafaka-Lenovo Tenerife",
-          "Galatasaray-Bayern Múnich",
-          "Inter-Salzburgo",
-          "Reyer Venezia-Joventut",
-          "Ciudad de Logroño-Alkaloid",
-          "Pfadi Winterthur-Ciudad Encantada",
-          "Manchester Utd-Copenhague",
-          "Sevilla-Arsenal",
-          "Lens-PSV",
-          "Unión Berlín-Nápoles",
-          "SC Braga-Real Madrid",
-          "Benfica-Real Sociedad",
-          "Leicester-Sunderland"
-        ],
-        "channel": [
-          "M+ Vamos",
-          "M+ Liga de Campeones",
-          "M+ Vamos",
-          "M+ Liga de Campeones",
-          "Teledeporte",
-          "M+ Liga de Campeones 2",
-          "M+ Liga de Campeones 3",
-          "Esport 3",
-          "DAZN 3",
-          "DAZN 2",
-          "M+ Liga de Campeones 6",
-          "M+ Liga de Campeones 2",
-          "M+ Liga de Campeones 7",
-          "M+ Liga de Campeones 5",
-          "M+ Liga de Campeones",
-          "M+ Liga de Campeones 3",
-          "DAZN 1"
-        ]
-      }
-    },
-    {
       "date": "Miércoles25 de Octubre de 2023",
       "events": {
         "discipline": [
@@ -646,5 +546,5 @@
       }
     }
   ],
-  "timestamp": 1698178491528
+  "timestamp": 1698185592623
 }
