@@ -327,7 +327,7 @@
           "DAZN 2",
           "DAZN 1",
           "DAZN 1",
-          "DAZN 3",
+          "DAZN 4",
           "Teledeporte",
           "DAZN LALIGA 2",
           "LALIGA TV HYPERMOTION",
@@ -382,6 +382,7 @@
           "Baloncesto",
           "Baloncesto",
           "Fútbol",
+          "NFL",
           "Fútbol",
           "Baloncesto",
           "Fútbol",
@@ -420,6 +421,7 @@
           "17:00",
           "17:30",
           "18:00",
+          "18:00",
           "18:30",
           "18:30",
           "18:30",
@@ -456,6 +458,7 @@
           "LIGA ENDESA",
           "LIGA ENDESA",
           "BUNDESLIGA",
+          "LIGA REGULAR",
           "SERIE A",
           "LIGA ENDESA",
           "LALIGA EA SPORTS",
@@ -493,6 +496,7 @@
           "MoraBanc Andorra-Baskonia",
           "Bilbao Basket-Lenovo Tenerife",
           "Bayer Leverkusen-Friburgo",
+          "Dallas Cowboys-Los Angeles Rams",
           "Inter-Roma",
           "Valencia Basket-Barcelona",
           "Athletic Club-Valencia",
@@ -519,8 +523,8 @@
           "DAZN LALIGA",
           "LALIGA TV HYPERMOTION",
           "M+ Liga de Campeones 2",
+          "DAZN",
           "DAZN 4",
-          "DAZN 2",
           "DAZN 3",
           "M+ Liga de Campeones",
           "M+ Deportes 5",
@@ -530,6 +534,7 @@
           "M+ Deportes 3",
           "M+ Deportes 4",
           "M+ Liga de Campeones 2",
+          "M+ Deportes 7",
           "M+ Vamos",
           "M+ Deportes",
           "DAZN LALIGA",
@@ -546,5 +551,5 @@
       }
     }
   ],
-  "timestamp": 1698228919883
+  "timestamp": 1698236848007
 }
