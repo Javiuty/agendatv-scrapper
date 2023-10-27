@@ -24,22 +24,29 @@ const saveAgendaData = async () => {
 
   await page.click('#didomi-notice-agree-button')
 
-  const data = await page.evaluate(() => {
+  const scrappeData = await page.evaluate(() => {
     return [...document.querySelectorAll('.auto-items .content-item')].map((context) => {
+
       const date = context.querySelector('.title-section-widget').textContent
-      const discipline = [...context.querySelectorAll('.dailyday')].map(evt => evt.textContent)
-      const hour = [...context.querySelectorAll('.dailyhour')].map(evt => evt.textContent)
-      const competition = [...context.querySelectorAll('.dailycompetition')].map(evt => evt.textContent)
-      const teams = [...context.querySelectorAll('.dailyteams')].map(evt => evt.textContent.replaceAll('\n', ''))
-      const channel = [...context.querySelectorAll('.dailychannel')].map(evt => evt.textContent)
-      return { date, events: { discipline, hour, competition, teams, channel } }
-    })
+
+      const infoEvent = [...context.querySelectorAll('.dailyevent')].map(evt => {
+        const discipline = evt.querySelector('.dailyday').textContent
+        const hour = evt.querySelector('.dailyhour').textContent
+        const competition = evt.querySelector('.dailycompetition').textContent
+        const teams = evt.querySelector('.dailyteams').textContent.replaceAll('\n', '')
+        const channel = evt.querySelector('.dailychannel').textContent
+
+        return { discipline, hour, competition, teams, channel }
+      })
+
+        return { date, events: infoEvent } 
+    }) 
   })
 
   await browser.close()
   
    const json = {
-    data,
+    scrappeData,
     timestamp: Date.now()
   }
   return json
