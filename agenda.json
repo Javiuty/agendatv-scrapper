@@ -1,5 +1,5 @@
 {
-  "scrappeData": [
+  "data": [
     {
       "date": "Viernes27 de Octubre de 2023",
       "events": [
@@ -583,5 +583,5 @@
       ]
     }
   ],
-  "timestamp": 1698413639026
+  "timestamp": 1698413787052
 }

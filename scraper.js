@@ -46,7 +46,7 @@ const saveAgendaData = async () => {
   await browser.close()
   
    const json = {
-    scrappeData,
+    data: scrappeData,
     timestamp: Date.now()
   }
   return json
