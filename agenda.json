@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves26 de Octubre de 2023",
-      "events": {
-        "discipline": [
-          "NBA",
-          "F. Sala",
-          "Fútbol",
-          "Balonmano",
-          "Baloncesto"
-        ],
-        "hour": [
-          "01:30",
-          "17:30",
-          "18:45",
-          "20:45",
-          "20:45"
-        ],
-        "competition": [
-          "LIGA REGULAR",
-          "UEFA FUTSAL CHAMPIONS LEAGUE",
-          "EUROPA LEAGUE",
-          "CHAMPIONS LEAGUE",
-          "EUROLIGA"
-        ],
-        "teams": [
-          "Miami Heat-Detroit Pistons",
-          "Anderlecht-Barcelona",
-          "Aris-Real Betis",
-          "Barcelona-Telekom Veszprem",
-          "Real Madrid-Barcelona"
-        ],
-        "channel": [
-          "M+ Deportes",
-          "Esport 3",
-          "Cuatro",
-          "DAZN 1",
-          "M+ Vamos"
-        ]
-      }
-    },
-    {
       "date": "Viernes27 de Octubre de 2023",
       "events": {
         "discipline": [
@@ -341,7 +301,7 @@
           "09:00",
           "12:30",
           "12:30",
-          "13:00",
+          "14:00",
           "14:00",
           "14:00",
           "14:00",
@@ -491,5 +451,5 @@
       }
     }
   ],
-  "timestamp": 1698394669404
+  "timestamp": 1698401695539
 }
