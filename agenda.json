@@ -1,88 +1,6 @@
 {
   "data": [
     {
-      "date": "Viernes27 de Octubre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Milwaukee Bucks-Philadelphia 76ers",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "17:45",
-          "competition": "NATIONS LEAGUE FEMENINA",
-          "teams": "Italia-España",
-          "channel": "LA 1"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "19:00",
-          "competition": "EUROLIGA",
-          "teams": "Zalgiris Kaunas-Valencia Basket",
-          "channel": "M+ Deportes 4"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:15",
-          "competition": "EUROLIGA",
-          "teams": "Panathinaikos-Baskonia",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Crystal Palace-Tottenham",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LIGUE 1",
-          "teams": "Clermont-Niza",
-          "channel": "Eurosport 2"
-        },
-        {
-          "discipline": "Rugby",
-          "hour": "21:00",
-          "competition": "COPA DEL MUNDO",
-          "teams": "Argentina-Inglaterra",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Girona-Celta de Vigo",
-          "channel": "GOL PLAY"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Eibar-Real Valladolid",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "21:00",
-          "competition": "PRIMERA DIVISIÓN",
-          "teams": "Industrias Santa Coloma-Córdoba",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "21:30",
-          "competition": "LIGA ASOBAL",
-          "teams": "Benidorm-Torrelavega",
-          "channel": "Teledeporte"
-        }
-      ]
-    },
-    {
       "date": "Sábado28 de Octubre de 2023",
       "events": [
         {
@@ -583,5 +501,5 @@
       ]
     }
   ],
-  "timestamp": 1698495877239
+  "timestamp": 1698502286290
 }
