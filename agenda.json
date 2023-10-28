@@ -296,6 +296,13 @@
           "channel": "M+ Deportes 3"
         },
         {
+          "discipline": "Tenis",
+          "hour": "14:00",
+          "competition": "ATP VIENA",
+          "teams": "Medvedev-Sinner",
+          "channel": "M+ Deportes 2"
+        },
+        {
           "discipline": "Motos",
           "hour": "14:00",
           "competition": "SUPERBIKE",
@@ -350,6 +357,13 @@
           "competition": "PREMIER LEAGUE",
           "teams": "Liverpool-Nottingham Forest",
           "channel": "DAZN 3"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "15:30",
+          "competition": "ATP BASILEA",
+          "teams": "Auger-Aliassime-Hurkacz",
+          "channel": "M+ Deportes"
         },
         {
           "discipline": "Fútbol",
@@ -501,5 +515,5 @@
       ]
     }
   ],
-  "timestamp": 1698509779972
+  "timestamp": 1698516983609
 }
