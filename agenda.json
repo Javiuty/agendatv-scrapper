@@ -60,7 +60,234 @@
           "channel": "Teledeporte"
         }
       ]
+    },
+    {
+      "date": "Martes31 de Octubre de 2023",
+      "events": [
+        {
+          "discipline": "Tenis",
+          "hour": "00:30",
+          "competition": "WTA FINALS",
+          "teams": "Gauff-Jabeur",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Memphis Grizzlies-Dallas Mavericks",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Béisbol",
+          "hour": "01:05",
+          "competition": "MLB",
+          "teams": "Arizona Diamondbacks-Texas Rangers",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "01:15",
+          "competition": "LIGA REGULAR",
+          "teams": "Detroit Lions-Las Vegas Raiders",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "COPA ITALIA",
+          "teams": "Salernitana-Sampdoria",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "NATIONS LEAGUE FEMENINA",
+          "teams": "Suiza-España",
+          "channel": "LA 1"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "19:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Spandau-Barceloneta",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "CF Talavera-Almería",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Manacor-Las Palmas",
+          "channel": "M+ Liga de Campeones"
+        }
+      ]
+    },
+    {
+      "date": "Miércoles1 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "00:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Cleveland Cavaliers-New York Knicks",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Beisbol",
+          "hour": "01:05",
+          "competition": "MLB",
+          "teams": "Arizona Diamondbacks-Texas Rangers",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "Atlético de Lugones-Rayo Vallecano",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "San Roque de Lepe-Girona",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "Badalona Futur-Cádiz",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "13:00",
+          "competition": "DIVISIÓN DE HONOR FEMENINA",
+          "teams": "Guardes-Málaga",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:30",
+          "competition": "COPA DEL REY",
+          "teams": "Quintanar de la Orden-Sevilla",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:30",
+          "competition": "COPA DEL REY",
+          "teams": "Turégano-Celta de Vigo",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:30",
+          "competition": "EUROCUP FEMENINA",
+          "teams": "Cadi La Seu-Zabiny Brno",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "COPA ITALIA",
+          "teams": "Lecce-Parma",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "COPA DEL REY",
+          "teams": "Tardienta-Getafe",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "COPA DEL REY",
+          "teams": "Buñol-Real Sociedad",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "COPA DEL REY",
+          "teams": "Boiro-Mallorca",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "UCAM Murcia-Igokea",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "19:30",
+          "competition": "EUROCUP FEMENINA",
+          "teams": "Dudelange-Uni Girona",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "COPA DEL REY",
+          "teams": "Hernán Cortés-Real Betis",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "EFL CUP",
+          "teams": "West Ham-Arsenal",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "EFL CUP",
+          "teams": "Bournemouth-Liverpool",
+          "channel": "DAZN 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "EFL CUP",
+          "teams": "Chelsea-Blackburn",
+          "channel": "DAZN 4"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA ITALIA",
+          "teams": "Udinese-Cagliari",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:15",
+          "competition": "EFL CUP",
+          "teams": "Manchester Utd-Newcastle",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:30",
+          "competition": "COPA DEL REY",
+          "teams": "UE Rubí-Athletic Club",
+          "channel": "M+ Liga de Campeones"
+        }
+      ]
     }
   ],
-  "timestamp": 1698668866051
+  "timestamp": 1698675215760
 }
