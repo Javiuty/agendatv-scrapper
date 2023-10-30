@@ -1,67 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes30 de Octubre de 2023",
-      "events": [
-        {
-          "discipline": "Tenis",
-          "hour": "00:30",
-          "competition": "WTA FINALS",
-          "teams": "Sabalenka-Sakkari",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "01:20",
-          "competition": "LIGA REGULAR",
-          "teams": "Los Angeles Chargers-Chicago Bears",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "SERIE A",
-          "teams": "Empoli-Atalanta",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "GALA BALÓN DE ORO",
-          "teams": "París",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:45",
-          "competition": "SERIE A",
-          "teams": "Lazio-Fiorentina",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Granada-Villarreal",
-          "channel": "DAZN LALIGA"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Burgos CF-Real Zaragoza",
-          "channel": "LALIGA TV HYPERMOTION"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "23:00",
-          "competition": "WTA FINALS",
-          "teams": "Swiatek-Vondrousova",
-          "channel": "Teledeporte"
-        }
-      ]
-    },
-    {
       "date": "Martes31 de Octubre de 2023",
       "events": [
         {
@@ -112,6 +51,13 @@
           "competition": "CHAMPIONS LEAGUE",
           "teams": "Spandau-Barceloneta",
           "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "19:30",
+          "competition": "ATP PARÍS",
+          "teams": "Safiullin-Alcaraz",
+          "channel": "Movistar Plus+"
         },
         {
           "discipline": "Fútbol",
@@ -932,5 +878,5 @@
       ]
     }
   ],
-  "timestamp": 1698689926771
+  "timestamp": 1698703986811
 }
