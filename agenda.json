@@ -72,6 +72,13 @@
           "competition": "COPA DEL REY",
           "teams": "Manacor-Las Palmas",
           "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "23:00",
+          "competition": "WTA FINALS",
+          "teams": "Sabalenka-Pegula",
+          "channel": "Teledeporte"
         }
       ]
     },
@@ -84,6 +91,13 @@
           "competition": "LIGA REGULAR",
           "teams": "Cleveland Cavaliers-New York Knicks",
           "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "01:00",
+          "competition": "WTA FINALS",
+          "teams": "Rybakina-Sakkari",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Beisbol",
@@ -245,6 +259,13 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "Beisbol",
+          "hour": "01:05",
+          "competition": "MLB",
+          "teams": "Arizona Diamondbacks-Texas Rangers",
+          "channel": "M+ Deportes 3"
+        },
+        {
           "discipline": "Balonmano",
           "hour": "16:45",
           "competition": "GOLDEN LEAGUE",
@@ -353,6 +374,13 @@
           "competition": "SERIE A",
           "teams": "Bolonia-Lazio",
           "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "21:00",
+          "competition": "LIGA FEMENINA",
+          "teams": "Gernika Bizkaia-Barcelona CBS",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -841,6 +869,13 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
+          "discipline": "NFL",
+          "hour": "19:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Baltimore Ravens-Seattle Seahawks",
+          "channel": "M+ Deportes 5"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "20:45",
           "competition": "SERIE A",
@@ -878,5 +913,5 @@
       ]
     }
   ],
-  "timestamp": 1698755262347
+  "timestamp": 1698769140757
 }
