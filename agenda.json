@@ -1,88 +1,6 @@
 {
   "data": [
     {
-      "date": "Martes31 de Octubre de 2023",
-      "events": [
-        {
-          "discipline": "Tenis",
-          "hour": "00:30",
-          "competition": "WTA FINALS",
-          "teams": "Gauff-Jabeur",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "NBA",
-          "hour": "01:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Memphis Grizzlies-Dallas Mavericks",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Béisbol",
-          "hour": "01:05",
-          "competition": "MLB",
-          "teams": "Arizona Diamondbacks-Texas Rangers",
-          "channel": "M+ Deportes 3"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "01:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Detroit Lions-Las Vegas Raiders",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:00",
-          "competition": "COPA ITALIA",
-          "teams": "Salernitana-Sampdoria",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "NATIONS LEAGUE FEMENINA",
-          "teams": "Suiza-España",
-          "channel": "LA 1"
-        },
-        {
-          "discipline": "Waterpolo",
-          "hour": "19:30",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Spandau-Barceloneta",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "19:30",
-          "competition": "ATP PARÍS",
-          "teams": "Safiullin-Alcaraz",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA DEL REY",
-          "teams": "CF Talavera-Almería",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA DEL REY",
-          "teams": "Manacor-Las Palmas",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "23:00",
-          "competition": "WTA FINALS",
-          "teams": "Sabalenka-Pegula",
-          "channel": "Teledeporte"
-        }
-      ]
-    },
-    {
       "date": "Miércoles1 de Noviembre de 2023",
       "events": [
         {
@@ -913,5 +831,5 @@
       ]
     }
   ],
-  "timestamp": 1698783285781
+  "timestamp": 1698790366450
 }
