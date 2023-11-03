@@ -1,74 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves2 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "00:30",
-          "competition": "LIGA REGULAR",
-          "teams": "New York Knicks-Cleveland Cavaliers",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Beisbol",
-          "hour": "01:05",
-          "competition": "MLB",
-          "teams": "Arizona Diamondbacks-Texas Rangers",
-          "channel": "M+ Deportes 3"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "16:45",
-          "competition": "GOLDEN LEAGUE",
-          "teams": "España-Países Bajos",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "COPA DEL REY",
-          "teams": "Chiclana-Villarreal",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "COPA DEL REY",
-          "teams": "Arosa SC-Granada",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:00",
-          "competition": "COPA DEL REY",
-          "teams": "UD Logroñés-Valencia",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Valencia Basket-Alba Berlín",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA DEL REY",
-          "teams": "Deportivo Murcia-Alavés",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA ITALIA",
-          "teams": "Torino-Frosinone",
-          "channel": "DAZN 1"
-        }
-      ]
-    },
-    {
       "date": "Viernes3 de Noviembre de 2023",
       "events": [
         {
@@ -679,5 +611,5 @@
       ]
     }
   ],
-  "timestamp": 1699035514757
+  "timestamp": 1699042526538
 }
