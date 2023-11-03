@@ -1,102 +1,6 @@
 {
   "data": [
     {
-      "date": "Viernes3 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:00",
-          "competition": "LIGA REGULAR",
-          "teams": "New Orleans Pelicans-Detroit Pistons",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "01:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Pittsburgh Steelers-Tennessee Titans",
-          "channel": "M+ Deportes 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al Fateh-Al-Hilal",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al Shabab-Al-Ittihad FC",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Barcelona-Panathinaikos",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Baskonia-Partizan",
-          "channel": "M+ Deportes 3"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "LIGA FEMENINA",
-          "teams": "Uni Girona-Jairis",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:45",
-          "competition": "SERIE A",
-          "teams": "Bolonia-Lazio",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "21:00",
-          "competition": "LIGA FEMENINA",
-          "teams": "Gernika Bizkaia-Barcelona CBS",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LIGUE 1",
-          "teams": "PSG-Montpellier",
-          "channel": "Eurosport 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONSHIP",
-          "teams": "Leicester-Leeds Utd",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Las Palmas-Atlético de Madrid",
-          "channel": "M+ LALIGA TV"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Espanyol-Eibar",
-          "channel": "M+ Vamos"
-        }
-      ]
-    },
-    {
       "date": "Sábado4 de Noviembre de 2023",
       "events": [
         {
@@ -399,6 +303,13 @@
           "channel": "DAZN 3"
         },
         {
+          "discipline": "Hockey",
+          "hour": "12:00",
+          "competition": "LIGA IBERDROLA FEMENINA",
+          "teams": "Junior-San Sebastian",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Baloncesto",
           "hour": "12:30",
           "competition": "LIGA ENDESA",
@@ -427,13 +338,6 @@
           "channel": "DAZN"
         },
         {
-          "discipline": "Atletismo",
-          "hour": "14:00",
-          "competition": "MARATÓN",
-          "teams": "Nueva York",
-          "channel": "Teledeporte"
-        },
-        {
           "discipline": "Fútbol",
           "hour": "14:00",
           "competition": "LALIGA EA SPORTS",
@@ -446,6 +350,13 @@
           "competition": "LALIGA HYPERMOTION",
           "teams": "Racing de Ferrol-Andorra",
           "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Atletismo",
+          "hour": "14:30",
+          "competition": "MARATÓN",
+          "teams": "Nueva York",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -567,13 +478,6 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
-          "discipline": "NFL",
-          "hour": "19:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Baltimore Ravens-Seattle Seahawks",
-          "channel": "M+ Deportes 5"
-        },
-        {
           "discipline": "Fútbol",
           "hour": "20:45",
           "competition": "SERIE A",
@@ -611,5 +515,5 @@
       ]
     }
   ],
-  "timestamp": 1699042526538
+  "timestamp": 1699049587067
 }
