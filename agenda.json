@@ -373,6 +373,13 @@
           "channel": "Teledeporte"
         },
         {
+          "discipline": "Tenis",
+          "hour": "15:00",
+          "competition": "ATP PARÍS",
+          "teams": "Djokovic-Dimitrov",
+          "channel": "M+ Deportes"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "15:00",
           "competition": "PREMIER LEAGUE",
@@ -529,5 +536,5 @@
       ]
     }
   ],
-  "timestamp": 1699121817449
+  "timestamp": 1699128820638
 }
