@@ -282,6 +282,13 @@
           "competition": "LALIGA HYPERMOTION",
           "teams": "Albacete-Elche",
           "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "23:00",
+          "competition": "WTA FINALS",
+          "teams": "Pegula-Gauff",
+          "channel": "Teledeporte"
         }
       ]
     },
@@ -297,10 +304,17 @@
         },
         {
           "discipline": "Boxeo",
-          "hour": "00:00",
-          "competition": "PESO CRUCERO - MASCULINO",
-          "teams": "Mikaleyan-Makabu",
-          "channel": "DAZN 3"
+          "hour": "01:00",
+          "competition": "MINIMUM - FEMENINO",
+          "teams": "Valle-Ortiz",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "01:00",
+          "competition": "WTA FINALS",
+          "teams": "Sabalenka-Swiatek",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Hockey",
@@ -515,5 +529,5 @@
       ]
     }
   ],
-  "timestamp": 1699100686469
+  "timestamp": 1699107121125
 }
