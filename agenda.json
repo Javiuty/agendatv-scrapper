@@ -36,10 +36,113 @@
           "hour": "22:30",
           "competition": "WTA FINALS",
           "teams": "Pegula-Swiatek",
+          "channel": "DAZN 2"
+        }
+      ]
+    },
+    {
+      "date": "Martes7 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Indiana Pacers-San Antonio Spurs",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "02:15",
+          "competition": "LIGA REGULAR",
+          "teams": "New York Jets-Los Angeles Chargers",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Atlético de Madrid-Celtic",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "18:30",
+          "competition": "AMISTOSO FEMENINO",
+          "teams": "España-Portugal",
           "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Borussia Dortmund-Newcastle",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Shakhtar-Barcelona",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Unicaja-Peristeri",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "20:45",
+          "competition": "PRIMERA DIVISIÓN",
+          "teams": "Cartagena-Barcelona",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Atlético de Madrid-Celtic",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Lazio-Feyenoord",
+          "channel": "M+ Liga de Campeones 7"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "AC Milan-PSG",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Manchester City-Young Boys",
+          "channel": "M+ Liga de Campeones 5"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Estrella Roja-RB Leipzig",
+          "channel": "M+ Liga de Campeones 8"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Oporto-Antwerp",
+          "channel": "M+ Liga de Campeones 6"
         }
       ]
     }
   ],
-  "timestamp": 1699273765026
+  "timestamp": 1699280056423
 }
