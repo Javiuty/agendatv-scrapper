@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes6 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NFL",
-          "hour": "02:20",
-          "competition": "LIGA REGULAR",
-          "teams": "Cincinnati Bengals-Buffalo Bills",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Tottenham-Chelsea",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Getafe-Cádiz",
-          "channel": "GOL PLAY"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Real Zaragoza-Real Oviedo",
-          "channel": "LALIGA TV HYPERMOTION"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "22:30",
-          "competition": "WTA FINALS",
-          "teams": "Pegula-Swiatek",
-          "channel": "DAZN 2"
-        }
-      ]
-    },
-    {
       "date": "Martes7 de Noviembre de 2023",
       "events": [
         {
@@ -890,5 +850,5 @@
       ]
     }
   ],
-  "timestamp": 1699301699370
+  "timestamp": 1699308805459
 }
