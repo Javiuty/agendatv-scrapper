@@ -142,7 +142,309 @@
           "channel": "M+ Liga de Campeones 6"
         }
       ]
+    },
+    {
+      "date": "Miércoles8 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "Boxeo",
+          "hour": "01:00",
+          "competition": "SUPERPLUMA MASCULINO",
+          "teams": "Jamel Herring vs. Nick Molina",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Real Sociedad-Benfica",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Arsenal-Sevilla",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "14:45",
+          "competition": "SUPER GLOBE",
+          "teams": "Al Noor-Barcelona",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Real Madrid-Braga",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "16:00",
+          "competition": "BILLIE JEAN KING CUP",
+          "teams": "España-Canadá",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Nápoles-Unión Berlín",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Real Sociedad-Benfica",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Bonn-Breogán",
+          "channel": "TVG"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:00",
+          "competition": "FIBA EUROPE CUP",
+          "teams": "Basket Zaragoza-Brindisi",
+          "channel": "Aragón Deporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROCUP",
+          "teams": "Joventut-London Lions",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Bayern Múnich-Galatasaray",
+          "channel": "M+ Liga de Campeones 6"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Copenhague-Manchester Utd",
+          "channel": "M+ Liga de Campeones 7"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "PSV-Lens",
+          "channel": "M+ Liga de Campeones 9"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Arsenal-Sevilla",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Real Madrid-SC Braga",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Salzburgo-Inter",
+          "channel": "M+ Liga de Campeones 8"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "21:00",
+          "competition": "LIGA ASOBAL",
+          "teams": "Huesca-Ademar",
+          "channel": "Teledeporte"
+        }
+      ]
+    },
+    {
+      "date": "Jueves9 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Philadelphia 76ers-Boston Celtics",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "17:00",
+          "competition": "SUPER GLOBE",
+          "teams": "Al Ahly Cairo-Barcelona",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:00",
+          "competition": "EUROBASKET FEMENINO",
+          "teams": "Croacia-España",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:15",
+          "competition": "EUROLIGA",
+          "teams": "Olympiacos-Baskonia",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "EUROPA LEAGUE",
+          "teams": "M. Haifa-Villarreal",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:00",
+          "competition": "COPA DE LA REINA",
+          "teams": "Granada-Athletic Club",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Olimpia Milano-Valencia Basket",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "EUROLIGA",
+          "teams": "Real Madrid-Virtus Bolonia",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "EUROPA LEAGUE",
+          "teams": "Real Betis-Aris",
+          "channel": "M+ Liga de Campeones"
+        }
+      ]
+    },
+    {
+      "date": "Viernes10 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Indiana Pacers-Milwaukee Bucks",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "02:15",
+          "competition": "LIGA REGULAR",
+          "teams": "Chicago Bears-Carolina Panthers",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "13:00",
+          "competition": "MUNDIAL SUB-17",
+          "teams": "España-Canadá",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "16:00",
+          "competition": "BILLIE JEAN KING CUP",
+          "teams": "España-Polonia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "SAUDI PRO LEAGUE",
+          "teams": "Al-Hilal-Al-Taawon",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "SAUDI PRO LEAGUE",
+          "teams": "Al-Ittihad FC-Abha",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:00",
+          "competition": "LIGA F",
+          "teams": "Real Madrid-Real Sociedad",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Barcelona-Estrella Roja",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Leganés-Levante",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "BUNDESLIGA",
+          "teams": "Borussia M'gladbach-Wolfsburgo",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LIGUE 1",
+          "teams": "Montpellier-Niza",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONSHIP",
+          "teams": "Blackburn-Preston",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "21:00",
+          "competition": "PRIMERA DIVISIÓN",
+          "teams": "Industrias Santa Coloma-Barcelona",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Athletic Club-Celta de Vigo",
+          "channel": "GOL PLAY"
+        }
+      ]
     }
   ],
-  "timestamp": 1699280056423
+  "timestamp": 1699287572523
 }
