@@ -30,9 +30,16 @@
           "competition": "LALIGA HYPERMOTION",
           "teams": "Real Zaragoza-Real Oviedo",
           "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "22:30",
+          "competition": "WTA FINALS",
+          "teams": "Pegula-Swiatek",
+          "channel": "Teledeporte"
         }
       ]
     }
   ],
-  "timestamp": 1699265798676
+  "timestamp": 1699273765026
 }
