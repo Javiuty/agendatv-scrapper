@@ -700,6 +700,13 @@
         },
         {
           "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "SERIE A",
+          "teams": "Nápoles-Empoli",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
           "hour": "13:00",
           "competition": "EUROBASKET FEMENINO",
           "teams": "España-Austria",
@@ -741,6 +748,13 @@
           "channel": "DAZN 1"
         },
         {
+          "discipline": "Fútbol",
+          "hour": "15:30",
+          "competition": "BUNDESLIGA",
+          "teams": "Bayer Leverkusen-Unión Berlín",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
           "discipline": "Rugby",
           "hour": "16:00",
           "competition": "PREMIERSHIP",
@@ -753,9 +767,128 @@
           "competition": "LALIGA EA SPORTS",
           "teams": "Barcelona-Alavés",
           "channel": "M+ LALIGA TV"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:15",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Andorra-Eldense",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:30",
+          "competition": "LIGA F",
+          "teams": "Levante-Valencia",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Bilbao Basket-Real Madrid",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Valencia Basket-Basket Zaragoza",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Chelsea-Manchester City",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "SERIE A",
+          "teams": "Lazio-Roma",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "LIGA F",
+          "teams": "Athletic Club-Madrid CFF",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Barcelona-Lenovo Tenerife",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Sevilla-Real Betis",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Tenerife-Villarreal B",
+          "channel": "LALIGA TV HYPERMOTION 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Huesca-Espanyol",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:00",
+          "competition": "LIGA ASOBAL",
+          "teams": "Sinfín-Bidasoa-Irun",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "SERIE A",
+          "teams": "Inter-Frosinone",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "LIGUE 1",
+          "teams": "Lens-Marsella",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Atlético de Madrid-Villarreal",
+          "channel": "M+ LALIGA TV"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Eibar-Albacete",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "21:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Los Angeles Clippers-Memphis Grizzlies",
+          "channel": "M+ Vamos"
         }
       ]
     }
   ],
-  "timestamp": 1699294701975
+  "timestamp": 1699301699370
 }
