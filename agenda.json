@@ -394,7 +394,7 @@
           "hour": "21:00",
           "competition": "PRIMERA DIVISIÓN",
           "teams": "Industrias Santa Coloma-Barcelona",
-          "channel": "Esport 3"
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -850,5 +850,5 @@
       ]
     }
   ],
-  "timestamp": 1699360071748
+  "timestamp": 1699366383332
 }
