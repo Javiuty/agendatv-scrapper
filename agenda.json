@@ -320,11 +320,25 @@
           "channel": "DAZN 1"
         },
         {
+          "discipline": "F. Sala",
+          "hour": "11:00",
+          "competition": "PRIMERA DIVISIÓN FEMENINA",
+          "teams": "Ourense CF-Roldán FSF",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "12:00",
           "competition": "LIGA F",
           "teams": "Atlético de Madrid-Eibar",
           "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "13:00",
+          "competition": "DIVISIÓN DE HONOR FEMENINA",
+          "teams": "Elda-Beti-Onak",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -789,5 +803,5 @@
       ]
     }
   ],
-  "timestamp": 1699452795926
+  "timestamp": 1699460337685
 }
