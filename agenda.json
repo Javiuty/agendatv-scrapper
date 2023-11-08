@@ -342,10 +342,24 @@
         },
         {
           "discipline": "Fútbol",
+          "hour": "15:00",
+          "competition": "SERIE A",
+          "teams": "Lecce-AC Milan",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
           "hour": "15:30",
           "competition": "BUNDESLIGA",
           "teams": "Bayern Múnich-Heidenheim",
           "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:30",
+          "competition": "BUNDESLIGA",
+          "teams": "Stuttgart-Borussia Dortmund",
+          "channel": "M+ Liga de Campeones 2"
         },
         {
           "discipline": "Fútbol",
@@ -640,6 +654,13 @@
           "channel": "DAZN"
         },
         {
+          "discipline": "Fútbol",
+          "hour": "16:45",
+          "competition": "EREDIVISIE",
+          "teams": "Feyenoord-AZ Alkmaar",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
           "discipline": "Baloncesto",
           "hour": "17:00",
           "competition": "LIGA ENDESA",
@@ -703,6 +724,13 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
+          "discipline": "Fútbol",
+          "hour": "19:30",
+          "competition": "BUNDESLIGA",
+          "teams": "RB Leipzig-Friburgo",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
           "discipline": "Balonmano",
           "hour": "20:00",
           "competition": "LIGA ASOBAL",
@@ -743,9 +771,16 @@
           "competition": "LIGA REGULAR",
           "teams": "Los Angeles Clippers-Memphis Grizzlies",
           "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "22:05",
+          "competition": "LIGA REGULAR",
+          "teams": "Los Angeles Chargers-Detroit Lions",
+          "channel": "M+ Deportes"
         }
       ]
     }
   ],
-  "timestamp": 1699438516661
+  "timestamp": 1699446446703
 }
