@@ -284,7 +284,7 @@
           "hour": "21:00",
           "competition": "CHAMPIONSHIP",
           "teams": "Blackburn-Preston",
-          "channel": "DAZN 1"
+          "channel": "DAZN 2"
         },
         {
           "discipline": "F. Sala",
@@ -366,7 +366,7 @@
           "hour": "16:00",
           "competition": "PREMIER LEAGUE",
           "teams": "Arsenal-Burnley",
-          "channel": "DAZN 1"
+          "channel": "DAZN 2"
         },
         {
           "discipline": "Fútbol",
@@ -429,7 +429,7 @@
           "hour": "18:30",
           "competition": "PREMIER LEAGUE",
           "teams": "Bournemouth-Newcastle",
-          "channel": "DAZN 1"
+          "channel": "DAZN 2"
         },
         {
           "discipline": "Fútbol",
@@ -724,6 +724,13 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
+          "discipline": "NFL",
+          "hour": "19:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Jacksonville Jaguars-San Francisco 49ers",
+          "channel": "M+ Deportes 5"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "19:30",
           "competition": "BUNDESLIGA",
@@ -782,5 +789,5 @@
       ]
     }
   ],
-  "timestamp": 1699446446703
+  "timestamp": 1699452795926
 }
