@@ -1,74 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves9 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Philadelphia 76ers-Boston Celtics",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "17:00",
-          "competition": "SUPER GLOBE",
-          "teams": "Al Ahly Cairo-Barcelona",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "18:00",
-          "competition": "EUROBASKET FEMENINO",
-          "teams": "Croacia-España",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "18:15",
-          "competition": "EUROLIGA",
-          "teams": "Olympiacos-Baskonia",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:45",
-          "competition": "EUROPA LEAGUE",
-          "teams": "M. Haifa-Villarreal",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:00",
-          "competition": "COPA DE LA REINA",
-          "teams": "Granada-Athletic Club",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Olimpia Milano-Valencia Basket",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "EUROLIGA",
-          "teams": "Real Madrid-Virtus Bolonia",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "EUROPA LEAGUE",
-          "teams": "Real Betis-Aris",
-          "channel": "M+ Liga de Campeones"
-        }
-      ]
-    },
-    {
       "date": "Viernes10 de Noviembre de 2023",
       "events": [
         {
@@ -224,11 +156,25 @@
           "channel": "M+ LALIGA TV"
         },
         {
+          "discipline": "Tenis",
+          "hour": "14:30",
+          "competition": "ATP FINALS",
+          "teams": "Sinner-Tsitsipas",
+          "channel": "M+ Deportes"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "15:00",
           "competition": "SERIE A",
           "teams": "Lecce-AC Milan",
           "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "15:30",
+          "competition": "SUPER GLOBE",
+          "teams": "Barcelona-Fuchse Berlin",
+          "channel": "Esport 3"
         },
         {
           "discipline": "Fútbol",
@@ -357,6 +303,13 @@
           "channel": "Marca.com"
         },
         {
+          "discipline": "Rugby",
+          "hour": "20:00",
+          "competition": "LA VILA INTERNATIONAL CUP",
+          "teams": "España-Canadá",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Boxeo",
           "hour": "20:40",
           "competition": "SUPERGALLO MASCULINO",
@@ -430,6 +383,13 @@
           "competition": "G.P. MALASIA",
           "teams": "MotoGP",
           "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Hockey",
+          "hour": "11:00",
+          "competition": "LIGA IBERDROLA FEMENINA",
+          "teams": "Sardinero-Polo",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -656,6 +616,13 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
+          "discipline": "Tenis",
+          "hour": "21:00",
+          "competition": "ATP FINALS",
+          "teams": "Djokovic-Rune",
+          "channel": "M+ Deportes 2"
+        },
+        {
           "discipline": "NBA",
           "hour": "21:30",
           "competition": "LIGA REGULAR",
@@ -672,5 +639,5 @@
       ]
     }
   ],
-  "timestamp": 1699611307793
+  "timestamp": 1699619262741
 }
