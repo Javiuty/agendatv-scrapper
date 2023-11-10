@@ -1,109 +1,6 @@
 {
   "data": [
     {
-      "date": "Viernes10 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Indiana Pacers-Milwaukee Bucks",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "02:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Chicago Bears-Carolina Panthers",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "13:00",
-          "competition": "MUNDIAL SUB-17",
-          "teams": "España-Canadá",
-          "channel": "GOL PLAY"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "16:00",
-          "competition": "BILLIE JEAN KING CUP",
-          "teams": "España-Polonia",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al-Hilal-Al-Taawon",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al-Ittihad FC-Abha",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:00",
-          "competition": "LIGA F",
-          "teams": "Real Madrid-Real Sociedad",
-          "channel": "DAZN"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Barcelona-Estrella Roja",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Leganés-Levante",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "BUNDESLIGA",
-          "teams": "Borussia M'gladbach-Wolfsburgo",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LIGUE 1",
-          "teams": "Montpellier-Niza",
-          "channel": "Eurosport 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONSHIP",
-          "teams": "Blackburn-Preston",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "21:00",
-          "competition": "PRIMERA DIVISIÓN",
-          "teams": "Industrias Santa Coloma-Barcelona",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Athletic Club-Celta de Vigo",
-          "channel": "GOL PLAY"
-        }
-      ]
-    },
-    {
       "date": "Sábado11 de Noviembre de 2023",
       "events": [
         {
@@ -639,5 +536,5 @@
       ]
     }
   ],
-  "timestamp": 1699647293207
+  "timestamp": 1699654372269
 }
