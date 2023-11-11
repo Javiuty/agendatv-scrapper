@@ -1,249 +1,6 @@
 {
   "data": [
     {
-      "date": "Sábado11 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "02:00",
-          "competition": "IN-SEASON TOURNAMENT",
-          "teams": "San Antonio Spurs-Minnesota Timberwolves",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Motos",
-          "hour": "08:00",
-          "competition": "G.P. MALASIA",
-          "teams": "MotoGP (Sprint)",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "11:00",
-          "competition": "PRIMERA DIVISIÓN FEMENINA",
-          "teams": "Ourense CF-Roldán FSF",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "12:00",
-          "competition": "LIGA F",
-          "teams": "Atlético de Madrid-Eibar",
-          "channel": "GOL PLAY"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "13:00",
-          "competition": "DIVISIÓN DE HONOR FEMENINA",
-          "teams": "Elda-Beti-Onak",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "13:30",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Wolves-Tottenham",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "14:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Rayo Vallecano-Girona",
-          "channel": "M+ LALIGA TV"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "14:30",
-          "competition": "ATP FINALS",
-          "teams": "Sinner-Tsitsipas",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "15:00",
-          "competition": "SERIE A",
-          "teams": "Lecce-AC Milan",
-          "channel": "M+ Liga de Campeones 3"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "15:30",
-          "competition": "SUPER GLOBE",
-          "teams": "Barcelona-Fuchse Berlin",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "15:30",
-          "competition": "BUNDESLIGA",
-          "teams": "Bayern Múnich-Heidenheim",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "15:30",
-          "competition": "BUNDESLIGA",
-          "teams": "Stuttgart-Borussia Dortmund",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Arsenal-Burnley",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Crystal Palace-Everton",
-          "channel": "DAZN 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:15",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Almería-Real Sociedad",
-          "channel": "DAZN LALIGA"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:15",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Racing-Real Valladolid",
-          "channel": "LALIGA TV HYPERMOTION"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:30",
-          "competition": "LIGA F",
-          "teams": "Villarreal-Barcelona",
-          "channel": "DAZN"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "17:00",
-          "competition": "LIGUE 1",
-          "teams": "Reims-PSG",
-          "channel": "Eurosport 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:00",
-          "competition": "SERIE A",
-          "teams": "Juventus-Cagliari",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "18:00",
-          "competition": "LIGA ENDESA",
-          "teams": "Breogán-Joventut",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "18:00",
-          "competition": "LIGA ENDESA",
-          "teams": "MoraBanc Andorra-Manresa",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Bournemouth-Newcastle",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LIGA F",
-          "teams": "Sporting Huelva-Real Betis",
-          "channel": "DAZN"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Granada-Getafe",
-          "channel": "DAZN LALIGA 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Osasuna-Las Palmas",
-          "channel": "M+ LALIGA TV"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Elche-Real Zaragoza",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Mirandés-Racing de Ferrol",
-          "channel": "LALIGA TV HYPERMOTION 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al Wehda-Al Nassr Riyadh",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Rugby",
-          "hour": "20:00",
-          "competition": "LA VILA INTERNATIONAL CUP",
-          "teams": "España-Canadá",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Boxeo",
-          "hour": "20:40",
-          "competition": "SUPERGALLO MASCULINO",
-          "teams": "Masoud vs Sanmartin",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "LIGA ENDESA",
-          "teams": "Zunder Palencia-UCAM Murcia",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "LIGA ENDESA",
-          "teams": "Basquet Girona-Unicaja",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Real Madrid-Valencia",
-          "channel": "DAZN LALIGA"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Real Sporting-Amorebieta",
-          "channel": "LALIGA TV HYPERMOTION"
-        }
-      ]
-    },
-    {
       "date": "Domingo12 de Noviembre de 2023",
       "events": [
         {
@@ -336,6 +93,20 @@
           "competition": "LALIGA HYPERMOTION",
           "teams": "Burgos CF-Alcorcón",
           "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "14:30",
+          "competition": "ATP FINALS",
+          "teams": "Sinner-Tsitsipas",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "14:45",
+          "competition": "BILLIE JEAN KING CUP",
+          "teams": "Italia-Canadá",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -536,5 +307,5 @@
       ]
     }
   ],
-  "timestamp": 1699733628975
+  "timestamp": 1699740750717
 }
