@@ -305,7 +305,47 @@
           "channel": "M+ Deportes"
         }
       ]
+    },
+    {
+      "date": "Lunes13 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NFL",
+          "hour": "02:20",
+          "competition": "LIGA REGULAR",
+          "teams": "Las Vegas Raiders-New York Jets",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "10:00",
+          "competition": "MUNDIAL SUB-17",
+          "teams": "España-Mali",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "14:30",
+          "competition": "ATP FINALS",
+          "teams": "Alcaraz-Zverev",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "21:00",
+          "competition": "ATP FINALS",
+          "teams": "Medvedev-Rublev",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Real Oviedo-Cartagena",
+          "channel": "LALIGA TV HYPERMOTION"
+        }
+      ]
     }
   ],
-  "timestamp": 1699805803117
+  "timestamp": 1699813004140
 }
