@@ -175,7 +175,155 @@
           "channel": "DAZN 1"
         }
       ]
+    },
+    {
+      "date": "Jueves16 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Philadelphia 76ers-Boston Celtics",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Golf",
+          "hour": "10:00",
+          "competition": "DP WORLD TOUR CHAMPIONSHIP",
+          "teams": "Jornada 1",
+          "channel": "M+ Golf"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "10:00",
+          "competition": "MUNDIAL SUB-17",
+          "teams": "Uzbekistán-España",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "CLASIFICACIÓN EUROCOPA",
+          "teams": "Chipre-España",
+          "channel": "LA 1"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Wisla Plock-Barcelona",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "EUROLIGA",
+          "teams": "Real Madrid-Mónaco",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "LIGA FEMENINA",
+          "teams": "Perfumerías Avenida-Valencia Basket",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "23:00",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Venezuela-Ecuador",
+          "channel": "M+ Liga de Campeones 2"
+        }
+      ]
+    },
+    {
+      "date": "Viernes17 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "Fútbol",
+          "hour": "01:00",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Colombia-Brasil",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "01:00",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Argentina-Uruguay",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Miami Heat-Brooklyn Nets",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "01:30",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Chile-Paraguay",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "02:15",
+          "competition": "LIGA REGULAR",
+          "teams": "Baltimore Ravens-Cincinnati Bengals",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Golf",
+          "hour": "10:00",
+          "competition": "DP WORLD TOUR CHAMPIONSHIP",
+          "teams": "Jornada 2",
+          "channel": "M+ Golf"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:00",
+          "competition": "EUROLIGA",
+          "teams": "Asvel Basket-Baskonia",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Barcelona-Valencia Basket",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CLASIFICACIÓN EUROPEO SUB-21",
+          "teams": "España-Hungría",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Real Valladolid-Leganés",
+          "channel": "M+ Vamos"
+        }
+      ]
+    },
+    {
+      "date": "Sábado18 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "02:00",
+          "competition": "LIGA REGULAR",
+          "teams": "New Orleans Pelicans-Denver Nuggets",
+          "channel": "M+ Vamos"
+        }
+      ]
     }
   ],
-  "timestamp": 1699884822507
+  "timestamp": 1699892349402
 }
