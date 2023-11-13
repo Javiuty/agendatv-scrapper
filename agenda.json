@@ -1,46 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes13 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NFL",
-          "hour": "02:20",
-          "competition": "LIGA REGULAR",
-          "teams": "Las Vegas Raiders-New York Jets",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "10:00",
-          "competition": "MUNDIAL SUB-17",
-          "teams": "España-Mali",
-          "channel": "GOL PLAY"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "14:30",
-          "competition": "ATP FINALS",
-          "teams": "Alcaraz-Zverev",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "21:00",
-          "competition": "ATP FINALS",
-          "teams": "Medvedev-Rublev",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Real Oviedo-Cartagena",
-          "channel": "LALIGA TV HYPERMOTION"
-        }
-      ]
-    },
-    {
       "date": "Martes14 de Noviembre de 2023",
       "events": [
         {
@@ -351,6 +311,13 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "17:00",
+          "competition": "LIGA ASOBAL",
+          "teams": "Barcelona-Sinfín",
+          "channel": "Esport 3"
+        },
+        {
           "discipline": "Baloncesto",
           "hour": "18:00",
           "competition": "LIGA ENDESA",
@@ -617,5 +584,5 @@
       ]
     }
   ],
-  "timestamp": 1699899498154
+  "timestamp": 1699906414321
 }
