@@ -1,95 +1,6 @@
 {
   "data": [
     {
-      "date": "Martes14 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "02:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Milwaukee Bucks-Chicago Bulls",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "02:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Buffalo Bills-Denver Broncos",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "14:30",
-          "competition": "ATP FINALS",
-          "teams": "Tsitsipas-Rune",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "18:45",
-          "competition": "EUROPEAN LEAGUE",
-          "teams": "Gorenje-Ciudad Encantada",
-          "channel": "DAZN 3"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "18:45",
-          "competition": "EUROPEAN LEAGUE",
-          "teams": "Vojvodina-Ciudad de Logroño",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "19:00",
-          "competition": "PRIMERA DIVISIÓN",
-          "teams": "Barcelona-Manzanares FS",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:00",
-          "competition": "COPA DEL REY",
-          "teams": "Atzeneta-Real Zaragoza",
-          "channel": "Aragón TV"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Valencia Basket-Real Madrid",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROCUP",
-          "teams": "Joventut-Paris",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE FEMENINA",
-          "teams": "Barcelona-Benfica",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "21:00",
-          "competition": "PRIMERA DIVISIÓN",
-          "teams": "Alzira FS-Palma Futsal",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "21:00",
-          "competition": "ATP FINALS",
-          "teams": "Djokovic-Sinner",
-          "channel": "M+ Vamos"
-        }
-      ]
-    },
-    {
       "date": "Miércoles15 de Noviembre de 2023",
       "events": [
         {
@@ -598,5 +509,5 @@
       ]
     }
   ],
-  "timestamp": 1699992887090
+  "timestamp": 1700000014548
 }
