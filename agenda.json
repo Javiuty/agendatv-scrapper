@@ -107,6 +107,13 @@
           "channel": "Teledeporte"
         },
         {
+          "discipline": "Tenis",
+          "hour": "14:30",
+          "competition": "ATP FINALS",
+          "teams": "Alcaraz-Rublev",
+          "channel": "M+ Deportes"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "17:00",
           "competition": "COPA DE LA REINA",
@@ -126,6 +133,13 @@
           "competition": "EUROLIGA",
           "teams": "Baskonia-Barcelona",
           "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "21:00",
+          "competition": "ATP FINALS",
+          "teams": "Medvedev-Zverev",
+          "channel": "M+ Deportes"
         },
         {
           "discipline": "Fútbol",
@@ -584,5 +598,5 @@
       ]
     }
   ],
-  "timestamp": 1699964864072
+  "timestamp": 1699971214691
 }
