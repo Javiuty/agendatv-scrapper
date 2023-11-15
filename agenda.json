@@ -1,67 +1,6 @@
 {
   "data": [
     {
-      "date": "Miércoles15 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Philadelphia 76ers-Indiana Pacers",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "13:00",
-          "competition": "COPA DEL REY",
-          "teams": "Sorteo 2ª Eliminatoria",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "14:30",
-          "competition": "ATP FINALS",
-          "teams": "Alcaraz-Rublev",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "17:00",
-          "competition": "COPA DE LA REINA",
-          "teams": "Sorteo Octavos de Final",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Hapoel Holon-Breogán",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Baskonia-Barcelona",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "21:00",
-          "competition": "ATP FINALS",
-          "teams": "Medvedev-Zverev",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Real Madrid-Chelsea",
-          "channel": "DAZN 1"
-        }
-      ]
-    },
-    {
       "date": "Jueves16 de Noviembre de 2023",
       "events": [
         {
@@ -558,5 +497,5 @@
       ]
     }
   ],
-  "timestamp": 1700079345465
+  "timestamp": 1700086422715
 }
