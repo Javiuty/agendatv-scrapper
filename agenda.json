@@ -215,11 +215,32 @@
           "channel": "M+ Golf"
         },
         {
+          "discipline": "Hockey",
+          "hour": "11:00",
+          "competition": "LIGA IBERDROLA FEMENINA",
+          "teams": "Egara-C. D. Terrassa",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "12:00",
           "competition": "LIGA F",
           "teams": "UDG Tenerife-Levante",
           "channel": "DAZN"
+        },
+        {
+          "discipline": "Hockey",
+          "hour": "13:00",
+          "competition": "LIGA MGS-DIVISIÓN DE HONOR",
+          "teams": "Egara-C. D. Terrassa",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "16:00",
+          "competition": "PRIMERA DIVISIÓN FEMENINA",
+          "teams": "Marin-Les Corts UBAE",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -324,7 +345,7 @@
           "hour": "21:15",
           "competition": "PRIMERA DIVISIÓN",
           "teams": "Real Betis-Barcelona",
-          "channel": "Esport 3"
+          "channel": "Teledeporte"
         }
       ]
     },
@@ -493,6 +514,13 @@
           "channel": "LALIGA TV HYPERMOTION 2"
         },
         {
+          "discipline": "NFL",
+          "hour": "19:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Cleveland Browns-Pittsburgh Steelers",
+          "channel": "M+ Deportes 6"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "20:45",
           "competition": "CLASIFICACIÓN EUROCOPA",
@@ -505,9 +533,16 @@
           "competition": "LIGA REGULAR",
           "teams": "Brooklyn Nets-Philadelphia 76ers",
           "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "22:25",
+          "competition": "LIGA REGULAR",
+          "teams": "Buffalo Bills-New York Jets",
+          "channel": "M+ Deportes"
         }
       ]
     }
   ],
-  "timestamp": 1700057636166
+  "timestamp": 1700065169735
 }
