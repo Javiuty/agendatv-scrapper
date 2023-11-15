@@ -86,6 +86,13 @@
           "channel": "GOL PLAY"
         },
         {
+          "discipline": "Tenis",
+          "hour": "14:30",
+          "competition": "ATP FINALS",
+          "teams": "Djokovic-Hurkacz",
+          "channel": "Movistar Plus+"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "18:00",
           "competition": "CLASIFICACIÓN EUROCOPA",
@@ -112,6 +119,13 @@
           "competition": "LIGA FEMENINA",
           "teams": "Perfumerías Avenida-Valencia Basket",
           "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "ATP FINALS",
+          "teams": "Sinner-Rune",
+          "channel": "M+ Deportes"
         },
         {
           "discipline": "Fútbol",
@@ -544,5 +558,5 @@
       ]
     }
   ],
-  "timestamp": 1700065169735
+  "timestamp": 1700072278779
 }
