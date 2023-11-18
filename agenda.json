@@ -1,172 +1,6 @@
 {
   "data": [
     {
-      "date": "Sábado18 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "02:00",
-          "competition": "LIGA REGULAR",
-          "teams": "New Orleans Pelicans-Denver Nuggets",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Golf",
-          "hour": "10:00",
-          "competition": "DP WORLD TOUR CHAMPIONSHIP",
-          "teams": "Jornada 3",
-          "channel": "M+ Golf"
-        },
-        {
-          "discipline": "Hockey",
-          "hour": "11:00",
-          "competition": "LIGA IBERDROLA FEMENINA",
-          "teams": "Egara-C. D. Terrassa",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "12:00",
-          "competition": "LIGA F",
-          "teams": "UDG Tenerife-Levante",
-          "channel": "DAZN"
-        },
-        {
-          "discipline": "Hockey",
-          "hour": "13:00",
-          "competition": "LIGA MGS-DIVISIÓN DE HONOR",
-          "teams": "Egara-C. D. Terrassa",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "14:30",
-          "competition": "ATP FINALS",
-          "teams": "Sinner-Medvedev",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "16:00",
-          "competition": "PRIMERA DIVISIÓN FEMENINA",
-          "teams": "Marin-Les Corts UBAE",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "LIGA F",
-          "teams": "Real Sociedad-Sevilla",
-          "channel": "DAZN"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:15",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Alcorcón-Real Sporting",
-          "channel": "LALIGA TV HYPERMOTION"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "17:00",
-          "competition": "LIGA ASOBAL",
-          "teams": "Barcelona-Sinfín",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "18:00",
-          "competition": "LIGA ENDESA",
-          "teams": "Basket Zaragoza-Gran Canaria",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Motos",
-          "hour": "18:00",
-          "competition": "G.P. CATAR",
-          "teams": "MotoGP (Sprint)",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LIGA F",
-          "teams": "Eibar-Sporting Huelva",
-          "channel": "DAZN"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Amorebieta-Tenerife",
-          "channel": "LALIGA TV HYPERMOTION 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Real Zaragoza-Huesca",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Rugby",
-          "hour": "18:30",
-          "competition": "PREMIERSHIP",
-          "teams": "Harlequins-Saracens",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "19:15",
-          "competition": "LIGA FEMENINA",
-          "teams": "Estudiantes-Zaragoza",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "LIGA F",
-          "teams": "Valencia-Athletic Club",
-          "channel": "GOL PLAY"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "LIGA ENDESA",
-          "teams": "Basquet Girona-Breogán",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "LIGA ENDESA",
-          "teams": "Lenovo Tenerife-Zunder Palencia",
-          "channel": "M+ Deportes 3"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "21:00",
-          "competition": "ATP FINALS",
-          "teams": "Alcaraz-Djokovic",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Espanyol-Elche",
-          "channel": "LALIGA TV HYPERMOTION"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "21:15",
-          "competition": "PRIMERA DIVISIÓN",
-          "teams": "Real Betis-Barcelona",
-          "channel": "Teledeporte"
-        }
-      ]
-    },
-    {
       "date": "Domingo19 de Noviembre de 2023",
       "events": [
         {
@@ -289,6 +123,13 @@
           "channel": "M+ Deportes 3"
         },
         {
+          "discipline": "Tenis",
+          "hour": "18:00",
+          "competition": "ATP FINALS",
+          "teams": "Sinner-Djokovic",
+          "channel": "Movistar Plus+"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "18:00",
           "competition": "LIGA F",
@@ -361,5 +202,5 @@
       ]
     }
   ],
-  "timestamp": 1700338455045
+  "timestamp": 1700345557621
 }
