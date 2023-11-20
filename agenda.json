@@ -1,32 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes20 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NFL",
-          "hour": "02:20",
-          "competition": "LIGA REGULAR",
-          "teams": "Denver Broncos-Minnesota Vikings",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "13:00",
-          "competition": "MUNDIAL SUB-17",
-          "teams": "España-Japón",
-          "channel": "GOL PLAY"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Levante-Racing",
-          "channel": "LALIGA TV HYPERMOTION"
-        }
-      ]
-    },
-    {
       "date": "Martes21 de Noviembre de 2023",
       "events": [
         {
@@ -855,5 +829,5 @@
       ]
     }
   ],
-  "timestamp": 1700511355877
+  "timestamp": 1700518452626
 }
