@@ -428,6 +428,13 @@
           "channel": "M+ Deportes 2"
         },
         {
+          "discipline": "Golf",
+          "hour": "15:30",
+          "competition": "OPEN DE ESPAÑA FEMENINO",
+          "teams": "Jornada 3",
+          "channel": "M+ Golf"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "16:00",
           "competition": "PREMIER LEAGUE",
@@ -610,7 +617,243 @@
           "channel": "LALIGA TV HYPERMOTION"
         }
       ]
+    },
+    {
+      "date": "Domingo26 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "00:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Brooklyn Nets-Miami Heat",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "LIGA F",
+          "teams": "Atlético de Madrid-Granada",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Motos",
+          "hour": "12:00",
+          "competition": "G.P. COMUNIDAD VALENCIANA",
+          "teams": "Moto3",
+          "channel": "LA 1"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Breogán-Basket Zaragoza",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "LIGA ENDESA",
+          "teams": "MoraBanc Andorra-Real Madrid",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "13:00",
+          "competition": "TORNEO INTERNACIONAL FEMENINO",
+          "teams": "España-Serbia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Motos",
+          "hour": "13:15",
+          "competition": "G.P. COMUNIDAD VALENCIANA",
+          "teams": "Moto2",
+          "channel": "LA 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "LIGA F",
+          "teams": "Real Madrid-Sporting Huelva",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Fórmula 1",
+          "hour": "14:00",
+          "competition": "G.P. ABU DABI",
+          "teams": "Yas Marina",
+          "channel": "DAZN F1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Villarreal-Osasuna",
+          "channel": "M+ LALIGA TV"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Leganés-Racing de Ferrol",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "14:45",
+          "competition": "PRIMERA DIVISIÓN FEMENINA",
+          "teams": "Alcorcón-Burela",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Tottenham-Aston Villa",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Motos",
+          "hour": "15:00",
+          "competition": "G.P. COMUNIDAD VALENCIANA",
+          "teams": "MotoGP",
+          "channel": "LA 1"
+        },
+        {
+          "discipline": "Golf",
+          "hour": "15:30",
+          "competition": "OPEN DE ESPAÑA FEMENINO",
+          "teams": "Jornada 4",
+          "channel": "Movistar Golf"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "LIGA F",
+          "teams": "Levante Las Planas-Madrid CFF",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:15",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Real Sociedad-Sevilla",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:15",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Mirandés-Real Oviedo",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:15",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Elche-Amorebieta",
+          "channel": "LALIGA TV HYPERMOTION 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Barcelona-Basquet Girona",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Baskonia-Manresa",
+          "channel": "M+ Deportes 4"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Everton-Manchester Utd",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "SERIE A",
+          "teams": "Roma-Udinese",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "LIGA F",
+          "teams": "Athletic Club-Barcelona",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Gran Canaria-Lenovo Tenerife",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Cádiz-Real Madrid",
+          "channel": "M+ LALIGA TV"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Tenerife-Cartagena",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "19:00",
+          "competition": "LIGA ASOBAL",
+          "teams": "Ademar-Barcelona",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "LIGUE 1",
+          "teams": "Lyon-Lille",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "SERIE A",
+          "teams": "Juventus-Inter",
+          "channel": "Movistar Plus+ 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Real Betis-Las Palmas",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Espanyol-Alcorcón",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "21:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Milwaukee Bucks-Portland Trail Blazers",
+          "channel": "M+ Vamos"
+        }
+      ]
     }
   ],
-  "timestamp": 1700497207354
+  "timestamp": 1700511355877
 }
