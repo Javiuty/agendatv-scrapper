@@ -79,7 +79,178 @@
           "channel": "DAZN 2"
         }
       ]
+    },
+    {
+      "date": "Miércoles22 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "Fútbol",
+          "hour": "00:00",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Paraguay-Colombia",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "00:30",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Ecuador-Chile",
+          "channel": "M+ Liga de Campeones 4"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "00:30",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Uruguay-Bolivia",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Philadelphia 76ers-Cleveland Cavaliers",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "01:30",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Brasil-Argentina",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "03:00",
+          "competition": "CLASIFICACIÓN MUNDIAL",
+          "teams": "Perú-Venezuela",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "16:00",
+          "competition": "COPA DAVIS",
+          "teams": "República Checa-Australia",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "19:00",
+          "competition": "EUROCUP",
+          "teams": "Hapoel Tel-Aviv-Joventut",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "19:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Sabadell-Steaua Bucarest",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:00",
+          "competition": "EUROCUP FEMENINA",
+          "teams": "Flammes Carolo-Cadi La Seu",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Le Mans-Unicaja",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "EUROCUP FEMENINA",
+          "teams": "Uni Girona-Gorzow",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Zamora-Villarreal",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE FEMENINA",
+          "teams": "Eintracht Frankfurt-Barcelona",
+          "channel": "DAZN 1"
+        }
+      ]
+    },
+    {
+      "date": "Jueves23 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Boston Celtics-Milwaukee Bucks",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "10:00",
+          "competition": "COPA DAVIS",
+          "teams": "Italia-Países Bajos",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "EUROCOPA 2024",
+          "teams": "Sorteo Play-Off",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "16:00",
+          "competition": "COPA DAVIS",
+          "teams": "Serbia-Gran Bretaña",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE FEMENINA",
+          "teams": "Häcken-Real Madrid",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:05",
+          "competition": "EUROLIGA",
+          "teams": "Maccabi Tel Aviv-Barcelona",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:15",
+          "competition": "EUROLIGA",
+          "teams": "Panathinaikos-Valencia Basket",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "EUROLIGA",
+          "teams": "Real Madrid-Alba Berlín",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "22:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Dallas Cowboys-Washington Commanders",
+          "channel": "M+ Deportes"
+        }
+      ]
     }
   ],
-  "timestamp": 1700431970139
+  "timestamp": 1700442410465
 }
