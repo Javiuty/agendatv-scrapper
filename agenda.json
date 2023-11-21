@@ -799,6 +799,13 @@
           "channel": "Teledeporte"
         },
         {
+          "discipline": "NFL",
+          "hour": "19:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Cincinnati Bengals-Pittsburgh Steelers",
+          "channel": "M+ Deportes 6"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "20:45",
           "competition": "LIGUE 1",
@@ -832,9 +839,16 @@
           "competition": "LIGA REGULAR",
           "teams": "Milwaukee Bucks-Portland Trail Blazers",
           "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "22:25",
+          "competition": "LIGA REGULAR",
+          "teams": "Philadelphia Eagles-Buffalo Bills",
+          "channel": "M+ Deportes"
         }
       ]
     }
   ],
-  "timestamp": 1700576066532
+  "timestamp": 1700583607945
 }
