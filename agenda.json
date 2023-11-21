@@ -257,6 +257,13 @@
           "channel": "Marca.com"
         },
         {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "DIVISIÓN DE HONOR SILLA DE RUEDAS",
+          "teams": "UCAM Murcia BSR-CD Ilunion",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "19:00",
           "competition": "SAUDI PRO LEAGUE",
@@ -829,5 +836,5 @@
       ]
     }
   ],
-  "timestamp": 1700569766467
+  "timestamp": 1700576066532
 }
