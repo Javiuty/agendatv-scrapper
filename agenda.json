@@ -1,60 +1,6 @@
 {
   "data": [
     {
-      "date": "Martes21 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "02:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Minnesota Timberwolves-New York Knicks",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "02:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Kansas City Chiefs-Philadelphia Eagles",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "16:00",
-          "competition": "COPA DAVIS",
-          "teams": "Canadá-Finlandia",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Waterpolo",
-          "hour": "18:45",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Barceloneta-Vouliagmeni",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:00",
-          "competition": "CLASIFICACIÓN EUROPEO SUB-21",
-          "teams": "Bélgica-España",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:45",
-          "competition": "EUROPEAN LEAGUE",
-          "teams": "Ciudad de Logroño-Vojvodina",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:45",
-          "competition": "EUROPEAN LEAGUE",
-          "teams": "Ciudad Encantada-Gorenje",
-          "channel": "DAZN 2"
-        }
-      ]
-    },
-    {
       "date": "Miércoles22 de Noviembre de 2023",
       "events": [
         {
@@ -850,5 +796,5 @@
       ]
     }
   ],
-  "timestamp": 1700597640272
+  "timestamp": 1700604844487
 }
