@@ -411,10 +411,10 @@
           "channel": "LALIGA TV HYPERMOTION 2"
         },
         {
-          "discipline": "Baloncesto",
+          "discipline": "Balonmano",
           "hour": "17:00",
-          "competition": "LIGA FEMENINA",
-          "teams": "Perfumerías Avenida-Cadi La Seu",
+          "competition": "TORNEO INTERNACIONAL FEMENINO",
+          "teams": "España-Argentina",
           "channel": "Teledeporte"
         },
         {
@@ -488,10 +488,10 @@
           "channel": "Marca.com"
         },
         {
-          "discipline": "Balonmano",
+          "discipline": "Baloncesto",
           "hour": "19:00",
-          "competition": "TORNEO INTERNACIONAL FEMENINO",
-          "teams": "España-Argentina",
+          "competition": "LIGA FEMENINA",
+          "teams": "Perfumerías Avenida-Cadi La Seu",
           "channel": "Teledeporte"
         },
         {
@@ -796,5 +796,5 @@
       ]
     }
   ],
-  "timestamp": 1700662464650
+  "timestamp": 1700669960729
 }
