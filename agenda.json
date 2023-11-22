@@ -1,109 +1,6 @@
 {
   "data": [
     {
-      "date": "Miércoles22 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "Fútbol",
-          "hour": "00:00",
-          "competition": "CLASIFICACIÓN MUNDIAL",
-          "teams": "Paraguay-Colombia",
-          "channel": "M+ Liga de Campeones 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "00:30",
-          "competition": "CLASIFICACIÓN MUNDIAL",
-          "teams": "Ecuador-Chile",
-          "channel": "M+ Liga de Campeones 4"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "00:30",
-          "competition": "CLASIFICACIÓN MUNDIAL",
-          "teams": "Uruguay-Bolivia",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "NBA",
-          "hour": "01:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Philadelphia 76ers-Cleveland Cavaliers",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "01:30",
-          "competition": "CLASIFICACIÓN MUNDIAL",
-          "teams": "Brasil-Argentina",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "03:00",
-          "competition": "CLASIFICACIÓN MUNDIAL",
-          "teams": "Perú-Venezuela",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "16:00",
-          "competition": "COPA DAVIS",
-          "teams": "República Checa-Australia",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "19:00",
-          "competition": "EUROCUP",
-          "teams": "Hapoel Tel-Aviv-Joventut",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Waterpolo",
-          "hour": "19:30",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Sabadell-Steaua Bucarest",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:00",
-          "competition": "EUROCUP FEMENINA",
-          "teams": "Flammes Carolo-Cadi La Seu",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Le Mans-Unicaja",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "EUROCUP FEMENINA",
-          "teams": "Uni Girona-Gorzow",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA DEL REY",
-          "teams": "Zamora-Villarreal",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE FEMENINA",
-          "teams": "Eintracht Frankfurt-Barcelona",
-          "channel": "DAZN 1"
-        }
-      ]
-    },
-    {
       "date": "Jueves23 de Noviembre de 2023",
       "events": [
         {
@@ -796,5 +693,5 @@
       ]
     }
   ],
-  "timestamp": 1700684116999
+  "timestamp": 1700691178546
 }
