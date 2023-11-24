@@ -1,88 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves23 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Boston Celtics-Milwaukee Bucks",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "10:00",
-          "competition": "COPA DAVIS",
-          "teams": "Italia-Países Bajos",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "12:00",
-          "competition": "EUROCOPA 2024",
-          "teams": "Sorteo Play-Off",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Golf",
-          "hour": "14:00",
-          "competition": "OPEN DE ESPAÑA FEMENINO",
-          "teams": "Jornada 1",
-          "channel": "M+ Golf"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "16:00",
-          "competition": "COPA DAVIS",
-          "teams": "Serbia-Gran Bretaña",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:45",
-          "competition": "CHAMPIONS LEAGUE FEMENINA",
-          "teams": "Häcken-Real Madrid",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:05",
-          "competition": "EUROLIGA",
-          "teams": "Maccabi Tel Aviv-Barcelona",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:15",
-          "competition": "EUROLIGA",
-          "teams": "Panathinaikos-Valencia Basket",
-          "channel": "M+ Deportes 3"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "EUROLIGA",
-          "teams": "Real Madrid-Alba Berlín",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:45",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Barcelona-Wisla Plock",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "22:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Dallas Cowboys-Washington Commanders",
-          "channel": "M+ Deportes"
-        }
-      ]
-    },
-    {
       "date": "Viernes24 de Noviembre de 2023",
       "events": [
         {
@@ -194,6 +112,13 @@
           "competition": "LIGA F",
           "teams": "Villarreal-Costa Adeje Tenerife",
           "channel": "DAZN"
+        },
+        {
+          "discipline": "Tenis",
+          "hour": "12:00",
+          "competition": "COPA DAVIS",
+          "teams": "Italia-Serbia",
+          "channel": "M+ Vamos"
         },
         {
           "discipline": "Fútbol",
@@ -693,5 +618,5 @@
       ]
     }
   ],
-  "timestamp": 1700849876196
+  "timestamp": 1700856891007
 }
