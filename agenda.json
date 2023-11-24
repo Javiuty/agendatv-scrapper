@@ -1,102 +1,6 @@
 {
   "data": [
     {
-      "date": "Viernes24 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "Golf",
-          "hour": "14:00",
-          "competition": "OPEN DE ESPAÑA FEMENINO",
-          "teams": "Jornada 2",
-          "channel": "M+ Golf"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al-Ettifaq-Al-Ittihad FC",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "17:00",
-          "competition": "DIVISIÓN DE HONOR SILLA DE RUEDAS",
-          "teams": "UCAM Murcia BSR-CD Ilunion",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al Nassr Riyadh-Al Akhdoud",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "19:00",
-          "competition": "TORNEO INTERNACIONAL FEMENINO",
-          "teams": "España-Japón",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "BUNDESLIGA",
-          "teams": "Colonia-Bayern Múnich",
-          "channel": "Movistar Plus+ 2"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Baskonia-Mónaco",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "21:00",
-          "competition": "PRIMERA DIVISIÓN",
-          "teams": "Barcelona-Movistar Inter",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LIGUE 1",
-          "teams": "PSG-Mónaco",
-          "channel": "Eurosport 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONSHIP",
-          "teams": "Rotherham-Leeds Utd",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Alavés-Granada",
-          "channel": "M+ LALIGA TV"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Huesca-Real Valladolid",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "NBA",
-          "hour": "23:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Memphis Grizzlies-Phoenix Suns",
-          "channel": "M+ Vamos"
-        }
-      ]
-    },
-    {
       "date": "Sábado25 de Noviembre de 2023",
       "events": [
         {
@@ -448,13 +352,6 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
-          "discipline": "F. Sala",
-          "hour": "14:45",
-          "competition": "PRIMERA DIVISIÓN FEMENINA",
-          "teams": "Alcorcón-Burela",
-          "channel": "Teledeporte"
-        },
-        {
           "discipline": "Fútbol",
           "hour": "15:00",
           "competition": "PREMIER LEAGUE",
@@ -516,6 +413,13 @@
           "competition": "LIGA ENDESA",
           "teams": "Baskonia-Manresa",
           "channel": "M+ Deportes 4"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "17:00",
+          "competition": "PRIMERA DIVISIÓN FEMENINA",
+          "teams": "Alcorcón-Burela",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -618,5 +522,5 @@
       ]
     }
   ],
-  "timestamp": 1700856891007
+  "timestamp": 1700863977260
 }
