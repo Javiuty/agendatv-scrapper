@@ -373,6 +373,13 @@
           "channel": "Movistar Golf"
         },
         {
+          "discipline": "Tenis",
+          "hour": "16:00",
+          "competition": "COPA DAVIS",
+          "teams": "Australia-Italia",
+          "channel": "Movistar Plus+"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "16:00",
           "competition": "LIGA F",
@@ -522,5 +529,5 @@
       ]
     }
   ],
-  "timestamp": 1700929015481
+  "timestamp": 1700943255954
 }
