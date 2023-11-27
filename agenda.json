@@ -163,7 +163,391 @@
           "channel": "M+ Liga de Campeones"
         }
       ]
+    },
+    {
+      "date": "Miércoles29 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "02:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Dallas Mavericks-Houston Rockets",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Sevilla-PSV",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Real Sociedad-Salzburgo",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "15:00",
+          "competition": "UEFA CHAMPIONS LEAGUE",
+          "teams": "Barcelona-Feldi Eboli",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Real Madrid-Nápoles",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Brasil-Ucrania",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Galatasaray-Manchester Utd",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Sevilla-PSV",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "19:15",
+          "competition": "EUROCUP FEMENINA",
+          "teams": "Cadi La Seu-Eleftheria",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:30",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "España-Kazajistán",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROCUP",
+          "teams": "Joventut-Prometey",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Bayern Múnich-Copenhague",
+          "channel": "M+ Liga de Campeones 7"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Arsenal-Lens",
+          "channel": "M+ Liga de Campeones 5"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "SC Braga-Unión Berlín",
+          "channel": "M+ Liga de Campeones 8"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Real Madrid-Nápoles",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Benfica-Inter",
+          "channel": "M+ Liga de Campeones 6"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Real Sociedad-Salzburgo",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONSHIP",
+          "teams": "Ipswich-Millwall",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Mallorca-Cádiz",
+          "channel": "DAZN LALIGA"
+        }
+      ]
+    },
+    {
+      "date": "Jueves30 de Noviembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Toronto Raptors-Phoenix Suns",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Vela",
+          "hour": "11:30",
+          "competition": "REGATA PREVIA COPA AMÉRICA",
+          "teams": "Jeddah (Arabia Saudi)",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "15:00",
+          "competition": "UEFA CHAMPIONS LEAGUE",
+          "teams": "Etoile Lavalloise-Barcelona",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Países Bajos-Argentina",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "EUROPA LEAGUE",
+          "teams": "Sparta Praga-Real Betis",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Telekom Veszprem-Barcelona",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:45",
+          "competition": "EUROLIGA",
+          "teams": "Fenerbahçe-Real Madrid",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "SAUDI PRO LEAGUE",
+          "teams": "Al-Ittihad FC-Al Khaleej",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:30",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Francia-Angola",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "EUROPA LEAGUE",
+          "teams": "Villarreal-Panathinaikos",
+          "channel": "M+ Liga de Campeones"
+        }
+      ]
+    },
+    {
+      "date": "Viernes1 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "02:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Oklahoma City Thunder-Los Angeles Lakers",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "02:15",
+          "competition": "LIGA REGULAR",
+          "teams": "Dallas Cowboys-Seattle Seahawks",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "SAUDI PRO LEAGUE",
+          "teams": "Al-Hilal-Al Nassr Riyadh",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Valencia Basket-Baskonia",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Barcelona-Asvel Basket",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Real Oviedo-Espanyol",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "SERIE A",
+          "teams": "Monza-Juventus",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LIGUE 1",
+          "teams": "Reims-Estrasburgo",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONSHIP",
+          "teams": "Preston-QPR",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Las Palmas-Getafe",
+          "channel": "M+ LALIGA TV"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:30",
+          "competition": "UEFA NATIONS LEAGUE FEMENINA",
+          "teams": "España-Italia",
+          "channel": "LA 1"
+        }
+      ]
+    },
+    {
+      "date": "Sábado2 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "02:00",
+          "competition": "LIGA REGULAR",
+          "teams": "New Orleans Pelicans-San Antonio Spurs",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Rugby",
+          "hour": "06:00",
+          "competition": "SEVEN'S WORLD SERIES FEMENINO DUBAI",
+          "teams": "USA-España",
+          "channel": "M+ Deportes 5"
+        },
+        {
+          "discipline": "Rugby",
+          "hour": "07:30",
+          "competition": "SEVEN'S WORLD SERIES DUBAI",
+          "teams": "Argentina-España",
+          "channel": "M+ Deportes 5"
+        },
+        {
+          "discipline": "Rugby",
+          "hour": "08:15",
+          "competition": "SEVEN'S WORLD SERIES FEMENINO DUBAI",
+          "teams": "Francia-España",
+          "channel": "M+ Deportes 5"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "11:00",
+          "competition": "PRIMERA DIVISIÓN FEMENINA",
+          "teams": "Burela-Les Corts UBAE",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Rugby",
+          "hour": "11:15",
+          "competition": "SEVEN'S WORLD SERIES",
+          "teams": "Irlanda-España",
+          "channel": "M+ Deportes 5"
+        },
+        {
+          "discipline": "Rugby",
+          "hour": "12:45",
+          "competition": "SEVEN'S WORLD SERIES FEMENINO DUBAI",
+          "teams": "Canadá-España",
+          "channel": "M+ Deportes 5"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "13:30",
+          "competition": "CHAMPIONSHIP",
+          "teams": "West Brom-Leicester",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Girona-Valencia",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:30",
+          "competition": "BUNDESLIGA",
+          "teams": "Bayern Múnich-Unión Berlín",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Arsenal-Wolves",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Brentford-Luton",
+          "channel": "DAZN 2"
+        }
+      ]
     }
   ],
-  "timestamp": 1701094448146
+  "timestamp": 1701101981773
 }
