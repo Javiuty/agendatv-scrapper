@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes27 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NFL",
-          "hour": "02:20",
-          "competition": "LIGA REGULAR",
-          "teams": "Los Angeles Chargers-Baltimore Ravens",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Fulham-Wolves",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Girona-Athletic Club",
-          "channel": "GOL PLAY"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Real Sporting-Eldense",
-          "channel": "LALIGA TV HYPERMOTION"
-        }
-      ]
-    },
-    {
       "date": "Martes28 de Noviembre de 2023",
       "events": [
         {
@@ -400,6 +367,13 @@
           "competition": "SAUDI PRO LEAGUE",
           "teams": "Al-Hilal-Al Nassr Riyadh",
           "channel": "Marca.com"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:30",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "España-Ucrania",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Baloncesto",
@@ -839,6 +813,13 @@
           "channel": "M+ Liga de Campeones"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Brasil-España",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "18:00",
           "competition": "SERIE A",
@@ -911,5 +892,5 @@
       ]
     }
   ],
-  "timestamp": 1701116105828
+  "timestamp": 1701123145299
 }
