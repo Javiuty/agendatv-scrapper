@@ -362,6 +362,20 @@
           "channel": "M+ Deportes 2"
         },
         {
+          "discipline": "Vela",
+          "hour": "11:30",
+          "competition": "REGATA PREVIA COPA AMÉRICA",
+          "teams": "Jeddah (Arabia Saudí)",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Rumanía-Chile",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "19:00",
           "competition": "SAUDI PRO LEAGUE",
@@ -920,5 +934,5 @@
       ]
     }
   ],
-  "timestamp": 1701180848240
+  "timestamp": 1701188391562
 }
