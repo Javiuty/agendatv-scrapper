@@ -487,6 +487,13 @@
         },
         {
           "discipline": "Fútbol",
+          "hour": "13:00",
+          "competition": "MUNDIAL SUB-17",
+          "teams": "Francia-Alemania",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
           "hour": "13:30",
           "competition": "CHAMPIONSHIP",
           "teams": "West Brom-Leicester",
@@ -701,6 +708,13 @@
           "channel": "DAZN 2"
         },
         {
+          "discipline": "Atletismo",
+          "hour": "08:00",
+          "competition": "MARATÓN",
+          "teams": "Valencia",
+          "channel": "M+ Vamos"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "12:15",
           "competition": "EREDIVISIE",
@@ -855,6 +869,13 @@
           "channel": "LALIGA TV HYPERMOTION 2"
         },
         {
+          "discipline": "NFL",
+          "hour": "19:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Washington Commanders-Miami Dolphins",
+          "channel": "M+ Deportes 5"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "19:30",
           "competition": "BUNDESLIGA",
@@ -888,9 +909,16 @@
           "competition": "LALIGA HYPERMOTION",
           "teams": "Amorebieta-Burgos CF",
           "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "22:25",
+          "competition": "LIGA REGULAR",
+          "teams": "Philadelphia Eagles-San Francisco 49ers",
+          "channel": "M+ Deportes"
         }
       ]
     }
   ],
-  "timestamp": 1701174518881
+  "timestamp": 1701180848240
 }
