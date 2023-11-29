@@ -404,6 +404,13 @@
           "channel": "M+ Liga de Campeones"
         },
         {
+          "discipline": "Baloncesto",
+          "hour": "16:00",
+          "competition": "SILLA DE RUEDAS",
+          "teams": "IMF Getafe BSR-Fundación Aliados Valladolid",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "16:00",
           "competition": "PREMIER LEAGUE",
@@ -549,6 +556,13 @@
           "competition": "SERIE A",
           "teams": "AC Milan-Frosinone",
           "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "21:00",
+          "competition": "PRIMERA DIVISIÓN",
+          "teams": "Ribera Navarra-Jaén",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -803,5 +817,5 @@
       ]
     }
   ],
-  "timestamp": 1701274802623
+  "timestamp": 1701281922449
 }
