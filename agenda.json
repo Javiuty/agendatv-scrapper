@@ -1,109 +1,6 @@
 {
   "data": [
     {
-      "date": "Viernes1 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "02:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Oklahoma City Thunder-Los Angeles Lakers",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "02:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Dallas Cowboys-Seattle Seahawks",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Vela",
-          "hour": "11:30",
-          "competition": "REGATA PREVIA COPA AMÉRICA",
-          "teams": "Jeddah (Arabia Saudí)",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "18:00",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "Rumanía-Chile",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al-Hilal-Al Nassr Riyadh",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:30",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "España-Ucrania",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Valencia Basket-Baskonia",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Barcelona-Asvel Basket",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Real Oviedo-Espanyol",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:45",
-          "competition": "SERIE A",
-          "teams": "Monza-Juventus",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LIGUE 1",
-          "teams": "Reims-Estrasburgo",
-          "channel": "Eurosport 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONSHIP",
-          "teams": "Preston-QPR",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Las Palmas-Getafe",
-          "channel": "M+ LALIGA TV"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:30",
-          "competition": "UEFA NATIONS LEAGUE FEMENINA",
-          "teams": "España-Italia",
-          "channel": "LA 1"
-        }
-      ]
-    },
-    {
       "date": "Sábado2 de Diciembre de 2023",
       "events": [
         {
@@ -611,5 +508,5 @@
       ]
     }
   ],
-  "timestamp": 1701461737466
+  "timestamp": 1701468822575
 }
