@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves30 de Noviembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Toronto Raptors-Phoenix Suns",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Vela",
-          "hour": "11:30",
-          "competition": "REGATA PREVIA COPA AMÉRICA",
-          "teams": "Jeddah (Arabia Saudi)",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "15:00",
-          "competition": "UEFA CHAMPIONS LEAGUE",
-          "teams": "Etoile Lavalloise-Barcelona",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "18:00",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "Países Bajos-Argentina",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:45",
-          "competition": "EUROPA LEAGUE",
-          "teams": "Sparta Praga-Real Betis",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "18:45",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Telekom Veszprem-Barcelona",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "18:45",
-          "competition": "EUROLIGA",
-          "teams": "Fenerbahçe-Real Madrid",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al-Ittihad FC-Al Khaleej",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:30",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "Francia-Angola",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "EUROPA LEAGUE",
-          "teams": "Villarreal-Panathinaikos",
-          "channel": "M+ Liga de Campeones"
-        }
-      ]
-    },
-    {
       "date": "Viernes1 de Diciembre de 2023",
       "events": [
         {
@@ -470,7 +395,7 @@
           "discipline": "Atletismo",
           "hour": "08:00",
           "competition": "MARATÓN",
-          "teams": "Valencia",
+          "teams": "Valencia Trinidad Alfonso",
           "channel": "M+ Vamos"
         },
         {
@@ -542,6 +467,13 @@
           "competition": "PREMIER LEAGUE",
           "teams": "West Ham-Crystal Palace",
           "channel": "DAZN 4"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "15:30",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Croacia-China",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -679,5 +611,5 @@
       ]
     }
   ],
-  "timestamp": 1701382434653
+  "timestamp": 1701393118034
 }
