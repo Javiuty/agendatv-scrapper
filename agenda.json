@@ -290,10 +290,10 @@
         },
         {
           "discipline": "Atletismo",
-          "hour": "08:00",
+          "hour": "08:10",
           "competition": "MARATÓN",
           "teams": "Valencia Trinidad Alfonso",
-          "channel": "M+ Vamos"
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -508,5 +508,5 @@
       ]
     }
   ],
-  "timestamp": 1701541009970
+  "timestamp": 1701548038795
 }
