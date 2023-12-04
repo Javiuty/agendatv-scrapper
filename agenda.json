@@ -32,7 +32,131 @@
           "channel": "DAZN LALIGA"
         }
       ]
+    },
+    {
+      "date": "Martes5 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "IN-SEASON TOURNAMENT",
+          "teams": "Indiana Pacers-Boston Celtics",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "02:15",
+          "competition": "LIGA REGULAR",
+          "teams": "Jacksonville Jaguars-Cincinnati Bengals",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "04:00",
+          "competition": "IN-SEASON TOURNAMENT",
+          "teams": "Sacramento Kings-New Orleans Pelicans",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Natación",
+          "hour": "17:00",
+          "competition": "EUROPEO PISCINA CORTA",
+          "teams": "Bucarest",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "VEF Riga-Lenovo Tenerife",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:45",
+          "competition": "EUROPEAN LEAGUE",
+          "teams": "Alkaloid-Ciudad de Logroño",
+          "channel": "DAZN 4"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "COPA DEL REY",
+          "teams": "Atzeneta-Getafe",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "NATIONS LEAGUE FEMENINA",
+          "teams": "España-Suecia",
+          "channel": "LA 1"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "20:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Marsella-Barceloneta",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:15",
+          "competition": "EUROLIGA",
+          "teams": "Olympiacos-Real Madrid",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Wolves-Burnley",
+          "channel": "DAZN 3"
+        },
+        {
+          "discipline": "H. Patines",
+          "hour": "20:30",
+          "competition": "EUROPEO FEMENINO",
+          "teams": "Francia-España",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:45",
+          "competition": "EUROPEAN LEAGUE",
+          "teams": "Ciudad Encantada-Pfadi Winterthur",
+          "channel": "DAZN 4"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Arosa SC-Valencia",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Espanyol-Real Valladolid",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA ITALIA",
+          "teams": "Lazio-Genoa",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:15",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Luton-Arsenal",
+          "channel": "DAZN 1"
+        }
+      ]
     }
   ],
-  "timestamp": 1701641563100
+  "timestamp": 1701652007425
 }
