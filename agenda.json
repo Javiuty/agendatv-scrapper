@@ -156,7 +156,180 @@
           "channel": "DAZN 1"
         }
       ]
+    },
+    {
+      "date": "Miércoles6 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "IN-SEASON TOURNAMENT",
+          "teams": "Milwaukee Bucks-New York Knicks",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "04:00",
+          "competition": "IN-SEASON TOURNAMENT",
+          "teams": "Los Angeles Lakers-Phoenix Suns",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "Barbastro-Almería",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "Yeclano-Rayo Vallecano",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "Deportivo de La Coruña-Tenerife",
+          "channel": "TVG / TV Canaria"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "Antequera-Huesca",
+          "channel": "Aragón Deporte"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "12:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Sabadell-Novi Beograd",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "COPA DEL REY",
+          "teams": "Terrassa-Alavés",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "COPA DEL REY",
+          "teams": "Andratx-Real Sociedad",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:00",
+          "competition": "EUROCUP",
+          "teams": "Beşiktaş-Joventut",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "COPA DEL REY",
+          "teams": "Villanovense-Real Betis",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "COPA DEL REY",
+          "teams": "Valle Egüés-Mallorca",
+          "channel": "M+ Liga de Campeones 4"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Sheffield Utd-Liverpool",
+          "channel": "DAZN 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Fulham-Nottingham Forest",
+          "channel": "DAZN 4"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Virtus Bolonia-Barcelona",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Valencia Basket-Estrella Roja",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Baskonia-Fenerbahçe",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "H. Patines",
+          "hour": "20:30",
+          "competition": "EUROPEO FEMENINO",
+          "teams": "España-Italia",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Atl. Astorga-Sevilla",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Tudelano-Las Palmas",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LIGUE 1",
+          "teams": "Marsella-Lyon",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "EUROPA LEAGUE",
+          "teams": "Villarreal-Maccabi Haifa",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:15",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Aston Villa-Manchester City",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:15",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Manchester Utd-Chelsea",
+          "channel": "DAZN 2"
+        }
+      ]
     }
   ],
-  "timestamp": 1701692903202
+  "timestamp": 1701699270758
 }
