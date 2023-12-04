@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes4 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NFL",
-          "hour": "02:20",
-          "competition": "LIGA REGULAR",
-          "teams": "Green Bay Packers-Kansas City Chiefs",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "H. Patines",
-          "hour": "20:30",
-          "competition": "EUROPEO FEMENINO",
-          "teams": "España-Portugal",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Villarreal B-Eibar",
-          "channel": "LALIGA TV HYPERMOTION"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Celta de Vigo-Cádiz",
-          "channel": "DAZN LALIGA"
-        }
-      ]
-    },
-    {
       "date": "Martes5 de Diciembre de 2023",
       "events": [
         {
@@ -687,6 +654,13 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
+          "discipline": "Rugby",
+          "hour": "18:30",
+          "competition": "CHAMPIONS CUP",
+          "teams": "Bulls-Saracens",
+          "channel": "M+ Deportes 3"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "18:45",
           "competition": "EREDIVISIE",
@@ -738,5 +712,5 @@
       ]
     }
   ],
-  "timestamp": 1701720914473
+  "timestamp": 1701728044426
 }
