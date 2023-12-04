@@ -329,7 +329,178 @@
           "channel": "DAZN 2"
         }
       ]
+    },
+    {
+      "date": "Jueves7 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Minnesota Timberwolves-San Antonio Spurs",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "SAUDI PRO LEAGUE",
+          "teams": "Damac-Al-Ittihad FC",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "COPA DEL REY",
+          "teams": "Arandina-Cádiz",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:00",
+          "competition": "COPA DEL REY",
+          "teams": "Racing de Ferrol-Leganés",
+          "channel": "TVG"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:15",
+          "competition": "EUROLIGA",
+          "teams": "Panathinaikos-Real Madrid",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Everton-Newcastle",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Barcelona-Celje",
+          "channel": "DAZN 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Orihuela-Girona",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Cayón-Athletic Club",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Sestao River-Celta de Vigo",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:15",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Tottenham-West Ham",
+          "channel": "DAZN 1"
+        }
+      ]
+    },
+    {
+      "date": "Viernes8 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NFL",
+          "hour": "02:15",
+          "competition": "LIGA REGULAR",
+          "teams": "Pittsburgh Steelers-New England Patriots",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "SAUDI PRO LEAGUE",
+          "teams": "Al Taee-Al-Hilal",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Albacete-Villarreal B",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "SAUDI PRO LEAGUE",
+          "teams": "Al Nassr Riyadh-Al Riyadh",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Baskonia-Estrella Roja",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Barcelona-Fenerbahçe",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "SERIE A",
+          "teams": "Juventus-Nápoles",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LIGUE 1",
+          "teams": "Montpellier-Lens",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONSHIP",
+          "teams": "Coventry-Birmingham",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "21:00",
+          "competition": "EUROLIGA",
+          "teams": "Asvel Basket-Valencia Basket",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Getafe-Valencia",
+          "channel": "M+ LALIGA TV"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Espanyol-Real Zaragoza",
+          "channel": "M+ Vamos"
+        }
+      ]
     }
   ],
-  "timestamp": 1701699270758
+  "timestamp": 1701706794640
 }
