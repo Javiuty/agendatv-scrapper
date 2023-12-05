@@ -191,6 +191,13 @@
           "channel": "M+ Liga de Campeones"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "España-Argentina",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Baloncesto",
           "hour": "18:00",
           "competition": "EUROCUP",
@@ -395,6 +402,13 @@
           "competition": "SAUDI PRO LEAGUE",
           "teams": "Al Taee-Al-Hilal",
           "channel": "Marca.com"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "República Checa-España",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -712,5 +726,5 @@
       ]
     }
   ],
-  "timestamp": 1701793196710
+  "timestamp": 1701800313629
 }
