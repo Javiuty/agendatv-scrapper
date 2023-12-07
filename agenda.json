@@ -1,95 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves7 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Minnesota Timberwolves-San Antonio Spurs",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Damac-Al-Ittihad FC",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "COPA DEL REY",
-          "teams": "Arandina-Cádiz",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:00",
-          "competition": "COPA DEL REY",
-          "teams": "Racing de Ferrol-Leganés",
-          "channel": "TVG"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:15",
-          "competition": "EUROLIGA",
-          "teams": "Panathinaikos-Real Madrid",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Everton-Newcastle",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:45",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Barcelona-Celje",
-          "channel": "DAZN 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA DEL REY",
-          "teams": "Orihuela-Girona",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA DEL REY",
-          "teams": "Cayón-Athletic Club",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA DEL REY",
-          "teams": "Sestao River-Celta de Vigo",
-          "channel": "M+ Liga de Campeones 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:15",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Tottenham-West Ham",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "NBA",
-          "hour": "23:00",
-          "competition": "IN-SEASON TOURNAMENT",
-          "teams": "Milwaukee Bucks-Indiana Pacers",
-          "channel": "M+ Vamos"
-        }
-      ]
-    },
-    {
       "date": "Viernes8 de Diciembre de 2023",
       "events": [
         {
@@ -721,5 +632,5 @@
       ]
     }
   ],
-  "timestamp": 1701980145658
+  "timestamp": 1701987245184
 }
