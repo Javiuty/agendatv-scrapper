@@ -163,6 +163,13 @@
           "channel": "Movistar Plus+"
         },
         {
+          "discipline": "H. Patines",
+          "hour": "20:30",
+          "competition": "EUROPEO FEMENINO",
+          "teams": "España-Francia",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "20:45",
           "competition": "SERIE A",
@@ -474,6 +481,13 @@
           "channel": "DAZN 2"
         },
         {
+          "discipline": "Vela",
+          "hour": "11:00",
+          "competition": "SAILGP",
+          "teams": "Dubai",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "12:00",
           "competition": "LIGA F",
@@ -493,6 +507,13 @@
           "competition": "LIGA ENDESA",
           "teams": "Joventut-Obradoiro",
           "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Atletismo",
+          "hour": "12:30",
+          "competition": "EUROPEO CROSS",
+          "teams": "Bruselas",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -700,5 +721,5 @@
       ]
     }
   ],
-  "timestamp": 1701965991750
+  "timestamp": 1701973134672
 }
