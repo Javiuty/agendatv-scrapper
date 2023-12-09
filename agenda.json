@@ -1,130 +1,6 @@
 {
   "data": [
     {
-      "date": "Viernes8 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NFL",
-          "hour": "02:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Pittsburgh Steelers-New England Patriots",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "NBA",
-          "hour": "03:00",
-          "competition": "IN-SEASON TOURNAMENT",
-          "teams": "Los Angeles Lakers-New Orleans Pelicans",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Atletismo",
-          "hour": "12:30",
-          "competition": "CROSS",
-          "teams": "Cantimpalos (Segovia)",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "15:30",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "Brasil-Argentina",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al Taee-Al-Hilal",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "18:00",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "República Checa-España",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Albacete-Villarreal B",
-          "channel": "LALIGA TV HYPERMOTION"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al Nassr Riyadh-Al Riyadh",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Baskonia-Estrella Roja",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Barcelona-Fenerbahçe",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "H. Patines",
-          "hour": "20:30",
-          "competition": "EUROPEO FEMENINO",
-          "teams": "España-Francia",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:45",
-          "competition": "SERIE A",
-          "teams": "Juventus-Nápoles",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LIGUE 1",
-          "teams": "Montpellier-Lens",
-          "channel": "Eurosport 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONSHIP",
-          "teams": "Coventry-Birmingham",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "21:00",
-          "competition": "EUROLIGA",
-          "teams": "Asvel Basket-Valencia Basket",
-          "channel": "M+ Deportes 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Getafe-Valencia",
-          "channel": "M+ LALIGA TV"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Espanyol-Real Zaragoza",
-          "channel": "M+ Vamos"
-        }
-      ]
-    },
-    {
       "date": "Sábado9 de Diciembre de 2023",
       "events": [
         {
@@ -338,6 +214,13 @@
           "channel": "M+ Liga de Campeones 2"
         },
         {
+          "discipline": "H. Patines",
+          "hour": "20:30",
+          "competition": "EUROPEO FEMENINO",
+          "teams": "España-Portugal",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "20:45",
           "competition": "SERIE A",
@@ -390,6 +273,13 @@
           "competition": "PESO SUPERLIGERO - MASCULINO",
           "teams": "Prograis-Haney",
           "channel": "DAZN 2"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "02:30",
+          "competition": "IN-SEASON TOURNAMENT",
+          "teams": "Los Angeles Lakers-Indiana Pacers",
+          "channel": "Movistar Plus+"
         },
         {
           "discipline": "Vela",
@@ -632,5 +522,5 @@
       ]
     }
   ],
-  "timestamp": 1702131121586
+  "timestamp": 1702145815969
 }
