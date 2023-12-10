@@ -256,7 +256,54 @@
           "channel": "M+ Deportes"
         }
       ]
+    },
+    {
+      "date": "Lunes11 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NFL",
+          "hour": "02:20",
+          "competition": "LIGA REGULAR",
+          "teams": "Dallas Cowboys-Philadelphia Eagles",
+          "channel": "Movistar Plus"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "13:00",
+          "competition": "NATIONS LEAGUE FEMENINA",
+          "teams": "Sorteo Fase Final",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Polonia-Rumanía",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:30",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Montenegro-Suecia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Rayo Vallecano-Celta de Vigo",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Tenerife-Alcorcón",
+          "channel": "LALIGA TV HYPERMOTION"
+        }
+      ]
     }
   ],
-  "timestamp": 1702211153092
+  "timestamp": 1702217530603
 }
