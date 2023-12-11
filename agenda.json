@@ -313,6 +313,13 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "F. Sala",
+          "hour": "12:00",
+          "competition": "COPA DE ESPAÑA",
+          "teams": "Sorteo Fase Final",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "18:45",
           "competition": "EUROPA LEAGUE",
@@ -640,5 +647,5 @@
       ]
     }
   ],
-  "timestamp": 1702318757596
+  "timestamp": 1702325775788
 }
