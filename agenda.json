@@ -35,6 +35,13 @@
           "discipline": "Fútbol",
           "hour": "21:00",
           "competition": "LALIGA EA SPORTS",
+          "teams": "Granada-Athletic Club",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
           "teams": "Rayo Vallecano-Celta de Vigo",
           "channel": "GOL PLAY"
         },
@@ -184,7 +191,171 @@
           "channel": "DAZN 1"
         }
       ]
+    },
+    {
+      "date": "Miércoles13 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Boston Celtics-Cleveland Cavaliers",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Antwerp-Barcelona",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "UEFA YOUTH LEAGUE",
+          "teams": "Atlético de Madrid-Lazio",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:00",
+          "competition": "EUROCUP FEMENINA",
+          "teams": "Szekszard-Uni Girona",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "RB Leipzig-Young Boys",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Estrella Roja-Manchester City",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE FEMENINA",
+          "teams": "Rosengard-Barcelona",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:15",
+          "competition": "EUROCUP",
+          "teams": "Joventut-Cedevita Olimpija",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Barcelona-Manresa",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Atlético de Madrid-Lazio",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Celtic-Feyenoord",
+          "channel": "M+ Liga de Campeones 7"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Borussia Dortmund-PSG",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Newcastle-AC Milan",
+          "channel": "M+ Liga de Campeones 6"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Oporto-Shakhtar",
+          "channel": "M+ Liga de Campeones 5"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Antwerp-Barcelona",
+          "channel": "Movistar Plus+"
+        }
+      ]
+    },
+    {
+      "date": "Jueves14 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "San Antonio Spurs-Los Angeles Lakers",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "EUROPA LEAGUE",
+          "teams": "Stade Rennais-Villarreal",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:45",
+          "competition": "CHAMPIONS LEAGUE FEMENINA",
+          "teams": "Paris FC-Real Madrid",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Baskonia-Virtus Bolonia",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:30",
+          "competition": "LIGA ASOBAL",
+          "teams": "Puente Genil-Sinfín",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "EUROLIGA",
+          "teams": "Real Madrid-Bayern",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "EUROPA LEAGUE",
+          "teams": "Real Betis-Rangers",
+          "channel": "Movistar Plus+"
+        }
+      ]
     }
   ],
-  "timestamp": 1702304080356
+  "timestamp": 1702311614005
 }
