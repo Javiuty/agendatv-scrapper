@@ -792,6 +792,13 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
+          "discipline": "NFL",
+          "hour": "19:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Green Bay Packers-Tampa Bay Buccaneers",
+          "channel": "M+ Deportes 5"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "19:30",
           "competition": "BUNDESLIGA",
@@ -839,9 +846,16 @@
           "competition": "LIGA REGULAR",
           "teams": "San Antonio Spurs-New Orleans Pelicans",
           "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "22:25",
+          "competition": "LIGA REGULAR",
+          "teams": "Buffalo Bills-Dallas Cowboys",
+          "channel": "M+ Deportes"
         }
       ]
     }
   ],
-  "timestamp": 1702390433503
+  "timestamp": 1702397915345
 }
