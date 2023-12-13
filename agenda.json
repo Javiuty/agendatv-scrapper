@@ -203,6 +203,13 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "17:30",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Suecia-Francia",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Baloncesto",
           "hour": "20:15",
           "competition": "EUROLIGA",
@@ -719,5 +726,5 @@
       ]
     }
   ],
-  "timestamp": 1702491451882
+  "timestamp": 1702498526681
 }
