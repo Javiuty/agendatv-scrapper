@@ -1,130 +1,6 @@
 {
   "data": [
     {
-      "date": "Miércoles13 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Boston Celtics-Cleveland Cavaliers",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "14:00",
-          "competition": "UEFA YOUTH LEAGUE",
-          "teams": "Antwerp-Barcelona",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:00",
-          "competition": "UEFA YOUTH LEAGUE",
-          "teams": "Atlético de Madrid-Lazio",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "17:30",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "Suecia-Alemania",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "18:00",
-          "competition": "EUROCUP FEMENINA",
-          "teams": "Szekszard-Uni Girona",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:45",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "RB Leipzig-Young Boys",
-          "channel": "M+ Liga de Campeones 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:45",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Estrella Roja-Manchester City",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:45",
-          "competition": "CHAMPIONS LEAGUE FEMENINA",
-          "teams": "Rosengard-Barcelona",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:15",
-          "competition": "EUROCUP",
-          "teams": "Joventut-Cedevita Olimpija",
-          "channel": "Esport 3"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "LIGA ENDESA",
-          "teams": "Barcelona-Manresa",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:30",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "Dinamarca-Montenegro",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Atlético de Madrid-Lazio",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Celtic-Feyenoord",
-          "channel": "M+ Liga de Campeones 7"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Borussia Dortmund-PSG",
-          "channel": "M+ Liga de Campeones 3"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Newcastle-AC Milan",
-          "channel": "M+ Liga de Campeones 6"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Oporto-Shakhtar",
-          "channel": "M+ Liga de Campeones 5"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE",
-          "teams": "Antwerp-Barcelona",
-          "channel": "Movistar Plus+"
-        }
-      ]
-    },
-    {
       "date": "Jueves14 de Diciembre de 2023",
       "events": [
         {
@@ -290,6 +166,13 @@
           "competition": "LIGA F",
           "teams": "Atlético de Madrid-Real Sociedad",
           "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "13:00",
+          "competition": "PRIMERA DIVISIÓN FEMENINA",
+          "teams": "Torreblanca Melilla-Roldán FSF",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -726,5 +609,5 @@
       ]
     }
   ],
-  "timestamp": 1702498526681
+  "timestamp": 1702505646877
 }
