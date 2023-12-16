@@ -102,6 +102,13 @@
           "channel": "DAZN"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "17:00",
+          "competition": "COPA DE ESPAÑA",
+          "teams": "Bidasoa Irun-Ciudad de Logroño",
+          "channel": "Esport 3"
+        },
+        {
           "discipline": "Baloncesto",
           "hour": "17:00",
           "competition": "SILLA DE RUEDAS DIVISIÓN DE HONOR",
@@ -184,6 +191,13 @@
           "competition": "LIGA FEMENINA",
           "teams": "Perfumerías Avenida-Zaragoza",
           "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "19:30",
+          "competition": "COPA DE ESPAÑA",
+          "teams": "Barcelona-Granollers",
+          "channel": "Esport 3"
         },
         {
           "discipline": "Baloncesto",
@@ -473,5 +487,5 @@
       ]
     }
   ],
-  "timestamp": 1702735987160
+  "timestamp": 1702743456580
 }
