@@ -457,6 +457,13 @@
           "channel": "M+ Liga de Campeones"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "21:00",
+          "competition": "COPA DE ESPAÑA",
+          "teams": "Barcelona-Ciudad de Logroño",
+          "channel": "Esport 3"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "21:00",
           "competition": "LALIGA EA SPORTS",
@@ -487,5 +494,5 @@
       ]
     }
   ],
-  "timestamp": 1702757692390
+  "timestamp": 1702764766898
 }
