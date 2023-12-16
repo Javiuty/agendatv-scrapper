@@ -1,156 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves14 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:00",
-          "competition": "LIGA REGULAR",
-          "teams": "San Antonio Spurs-Los Angeles Lakers",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "12:00",
-          "competition": "COPA DE ESPAÑA",
-          "teams": "Sorteo Fase Final",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:45",
-          "competition": "EUROPA LEAGUE",
-          "teams": "Stade Rennais-Villarreal",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "18:45",
-          "competition": "CHAMPIONS LEAGUE FEMENINA",
-          "teams": "Paris FC-Real Madrid",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Baskonia-Virtus Bolonia",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:30",
-          "competition": "LIGA ASOBAL",
-          "teams": "Puente Genil-Sinfín",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "EUROLIGA",
-          "teams": "Real Madrid-Bayern",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "EUROPA LEAGUE",
-          "teams": "Real Betis-Rangers",
-          "channel": "Movistar Plus+"
-        }
-      ]
-    },
-    {
-      "date": "Viernes15 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NFL",
-          "hour": "02:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Las Vegas Raiders-Los Angeles Chargers",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "NBA",
-          "hour": "03:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Denver Nuggets-Brooklyn Nets",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "17:30",
-          "competition": "MUNDIAL FEMENINO",
-          "teams": "Suecia-Francia",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:15",
-          "competition": "EUROLIGA",
-          "teams": "Olympiacos-Valencia Basket",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "BUNDESLIGA",
-          "teams": "Borussia M'gladbach-Werder Bremen",
-          "channel": "M+ Liga de Campeones 2"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Barcelona-Olimpia Milano",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "F. Sala",
-          "hour": "20:30",
-          "competition": "CLASIFICACIÓN MUNDIAL",
-          "teams": "España-República Checa",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Real Oviedo-Elche",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:45",
-          "competition": "SERIE A",
-          "teams": "Genoa-Juventus",
-          "channel": "M+ Liga de Campeones"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Nottingham Forest-Tottenham",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LIGUE 1",
-          "teams": "Mónaco-Lyon",
-          "channel": "Eurosport 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Osasuna-Rayo Vallecano",
-          "channel": "M+ LALIGA TV"
-        }
-      ]
-    },
-    {
       "date": "Sábado16 de Diciembre de 2023",
       "events": [
         {
@@ -250,6 +100,13 @@
           "competition": "LIGA F",
           "teams": "Levante-Sporting Huelva",
           "channel": "DAZN"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "SILLA DE RUEDAS DIVISIÓN DE HONOR",
+          "teams": "Iberconsa Amfiv-CD Ilunion",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -544,6 +401,13 @@
           "channel": "LALIGA TV HYPERMOTION"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "19:00",
+          "competition": "MUNDIAL FEMENINO",
+          "teams": "Francia-Noruega",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "NFL",
           "hour": "19:00",
           "competition": "LIGA REGULAR",
@@ -609,5 +473,5 @@
       ]
     }
   ],
-  "timestamp": 1702678422375
+  "timestamp": 1702688733667
 }
