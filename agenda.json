@@ -280,6 +280,13 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "Baloncesto",
+          "hour": "10:00",
+          "competition": "AMISTOSO FEMENINO SILLA DE RUEDAS",
+          "teams": "España-Gran Bretaña",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "19:00",
           "competition": "LALIGA EA SPORTS",
@@ -654,5 +661,5 @@
       ]
     }
   ],
-  "timestamp": 1703002632488
+  "timestamp": 1703009707178
 }
