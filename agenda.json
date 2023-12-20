@@ -436,7 +436,7 @@
           "hour": "18:00",
           "competition": "PRIMERA DIVISIÓN",
           "teams": "Barcelona-Xota FS",
-          "channel": "Esport 3"
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -509,5 +509,5 @@
       ]
     }
   ],
-  "timestamp": 1703081527075
+  "timestamp": 1703089053523
 }
