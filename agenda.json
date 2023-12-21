@@ -1,116 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves21 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "02:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Chicago Bulls-Los Angeles Lakers",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "10:00",
-          "competition": "AMISTOSO FEMENINO SILLA DE RUEDAS",
-          "teams": "España-Gran Bretaña",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Real Betis-Girona",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Cádiz-Real Sociedad",
-          "channel": "DAZN LALIGA"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Huesca-Cartagena",
-          "channel": "LALIGA TV HYPERMOTION 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Villarreal B-Real Oviedo",
-          "channel": "LALIGA TV HYPERMOTION"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:00",
-          "competition": "SAUDI PRO LEAGUE",
-          "teams": "Al-Hilal-Abha",
-          "channel": "Marca.com"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Valencia Basket-Virtus Bolonia",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "EUROLIGA",
-          "teams": "Real Madrid-Partizan",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Crystal Palace-Brighton",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "CHAMPIONS LEAGUE FEMENINA",
-          "teams": "Barcelona-Rosengard",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:30",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Mallorca-Osasuna",
-          "channel": "M+ LALIGA TV"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:30",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Alavés-Real Madrid",
-          "channel": "DAZN LALIGA"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Amorebieta-Alcorcón",
-          "channel": "LALIGA TV HYPERMOTION 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:30",
-          "competition": "LALIGA HYPERMOTION",
-          "teams": "Real Valladolid-Racing de Ferrol",
-          "channel": "LALIGA TV HYPERMOTION"
-        }
-      ]
-    },
-    {
       "date": "Viernes22 de Diciembre de 2023",
       "events": [
         {
@@ -392,5 +282,5 @@
       ]
     }
   ],
-  "timestamp": 1703189701695
+  "timestamp": 1703196772769
 }
