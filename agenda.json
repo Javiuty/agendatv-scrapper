@@ -283,6 +283,13 @@
           "channel": "M+ Vamos"
         },
         {
+          "discipline": "Baloncesto",
+          "hour": "21:00",
+          "competition": "LIGA FEMENINA",
+          "teams": "Cadi La Seu-Uni Girona",
+          "channel": "Esport 3"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "21:15",
           "competition": "CHAMPIONSHIP",
@@ -290,7 +297,164 @@
           "channel": "DAZN 1"
         }
       ]
+    },
+    {
+      "date": "Sábado30 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Atlanta Hawks-Sacramento Kings",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "13:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Luton-Chelsea",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Aston Villa-Burnley",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Crystal Palace-Brentford",
+          "channel": "DAZN 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Manchester City-Sheffield Utd",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Wolves-Everton",
+          "channel": "DAZN 4"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "SAUDI PROFESSIONAL LEAGUE",
+          "teams": "Al Taee-Al-Ittihad FC",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:30",
+          "competition": "LIGA FEMENINA",
+          "teams": "Barcelona CBS-Zaragoza",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "SERIE A",
+          "teams": "AC Milan-Sassuolo",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Zunder Palencia-Bilbao Basket",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Nottingham Forest-Manchester Utd",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Rugby",
+          "hour": "18:30",
+          "competition": "PREMIERSHIP",
+          "teams": "Harlequins-Gloucester",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "SAUDI PROFESSIONAL LEAGUE",
+          "teams": "Al-Taawon-Al Nassr Riyadh",
+          "channel": "Marca.com"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "SERIE A",
+          "teams": "Juventus-Roma",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "LIGA ENDESA",
+          "teams": "Basquet Girona-Baskonia",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "LIGA ENDESA",
+          "teams": "Gran Canaria-Breogán",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "23:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Utah Jazz-Miami Heat",
+          "channel": "Movistar Plus+"
+        }
+      ]
+    },
+    {
+      "date": "Domingo31 de Diciembre de 2023",
+      "events": [
+        {
+          "discipline": "NFL",
+          "hour": "02:15",
+          "competition": "LIGA REGULAR",
+          "teams": "Dallas Cowboys-Detroit Lions",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Real Madrid-Valencia Basket",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Fulham-Arsenal",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Tottenham-Bournemouth",
+          "channel": "DAZN 2"
+        }
+      ]
     }
   ],
-  "timestamp": 1703441814411
+  "timestamp": 1703448849141
 }
