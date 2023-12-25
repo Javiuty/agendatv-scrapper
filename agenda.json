@@ -1,32 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes25 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "20:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Denver Nuggets-Golden State Warriors",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "NFL",
-          "hour": "22:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Philadelphia Eagles-New York Giants",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "NBA",
-          "hour": "23:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Los Angeles Lakers-Boston Celtics",
-          "channel": "Movistar Plus+"
-        }
-      ]
-    },
-    {
       "date": "Martes26 de Diciembre de 2023",
       "events": [
         {
@@ -477,5 +451,5 @@
       ]
     }
   ],
-  "timestamp": 1703535287259
+  "timestamp": 1703542411648
 }
