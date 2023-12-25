@@ -159,6 +159,20 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "Waterpolo",
+          "hour": "18:00",
+          "competition": "AMISTOSO FEMENINO",
+          "teams": "España-Hungría",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Voleibol",
+          "hour": "19:30",
+          "competition": "ALL STAR",
+          "teams": "Liga Iberdrola Femenina",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Baloncesto",
           "hour": "20:00",
           "competition": "EUROLIGA",
@@ -232,6 +246,13 @@
           "competition": "SERIE A",
           "teams": "Nápoles-Monza",
           "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Voleibol",
+          "hour": "18:30",
+          "competition": "ALL STAR",
+          "teams": "Liga Masculino",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -456,5 +477,5 @@
       ]
     }
   ],
-  "timestamp": 1703499334503
+  "timestamp": 1703507218296
 }
