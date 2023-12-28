@@ -94,6 +94,20 @@
         },
         {
           "discipline": "Fútbol",
+          "hour": "11:00",
+          "competition": "LALIGA FC FUTURES",
+          "teams": "Rayo Vallecano-Real Madrid",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "11:45",
+          "competition": "LALIGA FC FUTURES",
+          "teams": "Atlético de Madrid-Betis",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
           "hour": "18:30",
           "competition": "SERIE A",
           "teams": "Nápoles-Monza",
@@ -329,5 +343,5 @@
       ]
     }
   ],
-  "timestamp": 1703787467365
+  "timestamp": 1703794435819
 }
