@@ -1,81 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves28 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:30",
-          "competition": "LIGA REGULAR",
-          "teams": "Brooklyn Nets-Milwaukee Bucks",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Waterpolo",
-          "hour": "18:00",
-          "competition": "AMISTOSO FEMENINO",
-          "teams": "España-Hungría",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Voleibol",
-          "hour": "19:30",
-          "competition": "ALL STAR",
-          "teams": "Liga Iberdrola Femenina",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:00",
-          "competition": "EUROLIGA",
-          "teams": "Asvel Basket-Real Madrid",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Brighton-Tottenham",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "LIGA ENDESA",
-          "teams": "Granada-Lenovo Tenerife",
-          "channel": "M+ Deportes 3"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "LIGA ENDESA",
-          "teams": "Basket Zaragoza-MoraBanc Andorra",
-          "channel": "M+ Deportes 4"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Olimpia Milano-Baskonia",
-          "channel": "M+ Deportes 2"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Bayern-Valencia Basket",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:15",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Arsenal-West Ham",
-          "channel": "DAZN 1"
-        }
-      ]
-    },
-    {
       "date": "Viernes29 de Diciembre de 2023",
       "events": [
         {
@@ -343,5 +268,5 @@
       ]
     }
   ],
-  "timestamp": 1703794435819
+  "timestamp": 1703801594308
 }
