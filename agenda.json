@@ -442,7 +442,129 @@
           "channel": "M+ LALIGA TV"
         }
       ]
+    },
+    {
+      "date": "Jueves4 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Indiana Pacers-Milwaukee Bucks",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Osasuna-Almería",
+          "channel": "DAZN LALIGA 2"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "TORNEO INTERNACIONAL",
+          "teams": "España-Polonia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:15",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Sevilla-Athletic Club",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "20:15",
+          "competition": "EUROPEO",
+          "teams": "España-Croacia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "FA CUP",
+          "teams": "Crystal Palace-Everton",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA ITALIA",
+          "teams": "Juventus-Salernitana",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:30",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Las Palmas-Barcelona",
+          "channel": "M+ LALIGA TV"
+        }
+      ]
+    },
+    {
+      "date": "Viernes5 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "San Antonio Spurs-Milwaukee Bucks",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "16:30",
+          "competition": "EUROPEO FEMENINO",
+          "teams": "España-Francia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:00",
+          "competition": "TORNEO INTERNACIONAL",
+          "teams": "España-Eslovaquia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Valencia Basket-Panathinaikos",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Barcelona-Baskonia",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "EUROLIGA",
+          "teams": "Real Madrid-Anadolu Efes",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "FA CUP",
+          "teams": "Tottenham-Burnley",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Motor",
+          "hour": "21:00",
+          "competition": "DAKAR",
+          "teams": "Al Ula-Al Ula, 28.0 km",
+          "channel": "Teledeporte"
+        }
+      ]
     }
   ],
-  "timestamp": 1703873864551
+  "timestamp": 1703880888380
 }
