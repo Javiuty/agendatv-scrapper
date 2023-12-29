@@ -273,7 +273,80 @@
           "channel": "DAZN 2"
         }
       ]
+    },
+    {
+      "date": "Lunes1 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "Fútbol",
+          "hour": "18:15",
+          "competition": "CHAMPIONSHIP",
+          "teams": "Sheffield Wed-Hull",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Liverpool-Newcastle",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "NHL",
+          "hour": "21:00",
+          "competition": "WINTER CLASSIC",
+          "teams": "Seattle Kraken-Vegas Golden Knights",
+          "channel": "M+ Vamos"
+        }
+      ]
+    },
+    {
+      "date": "Martes2 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "03:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Utah Jazz-Dallas Mavericks",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Getafe-Rayo Vallecano",
+          "channel": "M+ LALIGA TV"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:15",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Real Sociedad-Alavés",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "West Ham-Brighton",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA ITALIA",
+          "teams": "AC Milan-Cagliari",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:30",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Valencia-Villarreal",
+          "channel": "Movistar Plus+"
+        }
+      ]
     }
   ],
-  "timestamp": 1703859166676
+  "timestamp": 1703866788164
 }
