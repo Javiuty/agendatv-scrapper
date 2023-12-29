@@ -346,7 +346,103 @@
           "channel": "Movistar Plus+"
         }
       ]
+    },
+    {
+      "date": "Miércoles3 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "02:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Memphis Grizzlies-San Antonio Spurs",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Granada-Cádiz",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "COPA ITALIA",
+          "teams": "Atalanta-Sassuolo",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Pinar Karsiyaka-Breogán",
+          "channel": "TVG"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:15",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Celta de Vigo-Real Betis",
+          "channel": "M+ LALIGA TV"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:15",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Real Madrid-Mallorca",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "19:30",
+          "competition": "EUROLIGA",
+          "teams": "Valencia Basket-Anadolu Efes",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:00",
+          "competition": "LIGA FEMENINA",
+          "teams": "IDK Gipuzkoa-Baxi Ferrol",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Baskonia-Panathinaikos",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "SUPERCOPA FRANCIA",
+          "teams": "PSG-Toulouse",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA ITALIA",
+          "teams": "Roma-Cremonese",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "21:00",
+          "competition": "EUROLIGA",
+          "teams": "Barcelona-Real Madrid",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:30",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Girona-Atlético de Madrid",
+          "channel": "M+ LALIGA TV"
+        }
+      ]
     }
   ],
-  "timestamp": 1703866788164
+  "timestamp": 1703873864551
 }
