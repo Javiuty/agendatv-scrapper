@@ -33,6 +33,13 @@
         },
         {
           "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "LALIGA FC FUTURES",
+          "teams": "Real Madrid-Atlético de Madrid",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
           "hour": "18:30",
           "competition": "SERIE A",
           "teams": "Nápoles-Monza",
@@ -268,5 +275,5 @@
       ]
     }
   ],
-  "timestamp": 1703852682412
+  "timestamp": 1703859166676
 }
