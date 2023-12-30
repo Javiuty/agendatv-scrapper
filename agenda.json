@@ -447,7 +447,166 @@
           "channel": "Teledeporte"
         }
       ]
+    },
+    {
+      "date": "Sábado6 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "02:00",
+          "competition": "LIGA REGULAR",
+          "teams": "New Orleans Pelicans-Los Angeles Clippers",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:30",
+          "competition": "SERIE A",
+          "teams": "Inter-Verona",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "13:30",
+          "competition": "FA CUP",
+          "teams": "Wimbledon-Ipswich",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "13:45",
+          "competition": "FA CUP",
+          "teams": "Sunderland-Newcastle",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "COPA DEL REY",
+          "teams": "Lugo-Atlético de Madrid",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "16:00",
+          "competition": "SUPERCOPA",
+          "teams": "Palma Futsal-Cartagena",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:00",
+          "competition": "COPA DEL REY",
+          "teams": "Espanyol-Getafe",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "17:45",
+          "competition": "EUROPEO",
+          "teams": "Montenegro-España",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "COPA DEL REY",
+          "teams": "Elche-Girona",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Basket Zaragoza-Basquet Girona",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:00",
+          "competition": "LIGA ENDESA",
+          "teams": "MoraBanc Andorra-UCAM Murcia",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "F. Sala",
+          "hour": "18:15",
+          "competition": "SUPERCOPA",
+          "teams": "Barcelona-Jaén",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "FA CUP",
+          "teams": "Middlesbrough-Aston Villa",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "FA CUP",
+          "teams": "Chelsea-Preston",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:30",
+          "competition": "LIGA F",
+          "teams": "Barcelona-Levante Las Planas",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "COPA DEL REY",
+          "teams": "Huesca-Rayo Vallecano",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:00",
+          "competition": "COPA DEL REY",
+          "teams": "Alavés-Real Betis",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "20:30",
+          "competition": "EUROPEO FEMENINO",
+          "teams": "España-Israel",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "LIGA ENDESA",
+          "teams": "Zunder Palencia-Unicaja",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "LIGA ENDESA",
+          "teams": "Lenovo Tenerife-Joventut",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Motor",
+          "hour": "21:00",
+          "competition": "DAKAR",
+          "teams": "Al Ula-Al Henakiyah, 414.0 km",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:30",
+          "competition": "COPA DEL REY",
+          "teams": "Arandina-Real Madrid",
+          "channel": "LA 1"
+        }
+      ]
     }
   ],
-  "timestamp": 1703939117598
+  "timestamp": 1703945544274
 }
