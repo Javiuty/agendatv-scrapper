@@ -606,7 +606,215 @@
           "channel": "LA 1"
         }
       ]
+    },
+    {
+      "date": "Domingo7 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Indiana Pacers-Boston Celtics",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "Amorebieta-Celta de Vigo",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DEL REY",
+          "teams": "Burgos CF-Mallorca",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "LIGA F",
+          "teams": "Athletic Club-Eibar",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "LIGA F",
+          "teams": "Real Sociedad-Costa Adeje Tenerife",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:30",
+          "competition": "SERIE A",
+          "teams": "Empoli-AC Milan",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Bilbao Basket-Manresa",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Breogán-Granada",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "LIGA F",
+          "teams": "Real Betis-Granada",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:00",
+          "competition": "SERIE A",
+          "teams": "Torino-Nápoles",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:00",
+          "competition": "FA CUP",
+          "teams": "Manchester City-Huddersfield",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "COPA DEL REY",
+          "teams": "Castellón-Osasuna",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "COPA DEL REY",
+          "teams": "Racing de Ferrol-Sevilla",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:00",
+          "competition": "LIGA F",
+          "teams": "Valencia-Atlético de Madrid",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Valencia Basket-Gran Canaria",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Barcelona-Obradoiro",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Waterpolo",
+          "hour": "17:00",
+          "competition": "EUROPEO FEMENINO",
+          "teams": "España-Italia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:30",
+          "competition": "FA CUP",
+          "teams": "Arsenal-Liverpool",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "COPA DEL REY",
+          "teams": "Unionistas-Villarreal",
+          "channel": "M+ Liga de Campeones 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "LIGA F",
+          "teams": "Real Madrid-Madrid CFF",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Baskonia-Real Madrid",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "COPA DEL REY",
+          "teams": "Cartagena-Valencia",
+          "channel": "M+ Liga de Campeones 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "19:00",
+          "competition": "COPA DEL REY",
+          "teams": "Eibar-Athletic Club",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "19:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Cleveland Cavaliers-San Antonio Spurs",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:00",
+          "competition": "LIGA F",
+          "teams": "Sporting Huelva-Sevilla",
+          "channel": "DAZN"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "SERIE A",
+          "teams": "Roma-Atalanta",
+          "channel": "M+ Liga de Campeones 4"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Barbastro-Barcelona",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA DEL REY",
+          "teams": "Málaga-Real Sociedad",
+          "channel": "LA 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "22:00",
+          "competition": "COPA DEL REY",
+          "teams": "Tenerife-Las Palmas",
+          "channel": "M+ Liga de Campeones"
+        }
+      ]
     }
   ],
-  "timestamp": 1703953091906
+  "timestamp": 1703960266195
 }
