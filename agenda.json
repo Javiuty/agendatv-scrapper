@@ -346,14 +346,14 @@
           "hour": "13:30",
           "competition": "FA CUP",
           "teams": "Wimbledon-Ipswich",
-          "channel": "DAZN 1"
+          "channel": "DAZN 2"
         },
         {
           "discipline": "Fútbol",
           "hour": "13:45",
           "competition": "FA CUP",
           "teams": "Sunderland-Newcastle",
-          "channel": "DAZN 2"
+          "channel": "DAZN 1"
         },
         {
           "discipline": "Fútbol",
@@ -416,14 +416,14 @@
           "hour": "18:30",
           "competition": "FA CUP",
           "teams": "Middlesbrough-Aston Villa",
-          "channel": "DAZN 1"
+          "channel": "DAZN 2"
         },
         {
           "discipline": "Fútbol",
           "hour": "18:30",
           "competition": "FA CUP",
           "teams": "Chelsea-Preston",
-          "channel": "DAZN 2"
+          "channel": "DAZN 1"
         },
         {
           "discipline": "Fútbol",
@@ -492,6 +492,13 @@
           "competition": "LIGA REGULAR",
           "teams": "Indiana Pacers-Boston Celtics",
           "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Boxeo",
+          "hour": "03:00",
+          "competition": "PESO SUPERWÉLTER MASCULINO",
+          "teams": "Vergil Ortiz Jr. - Fredrick Lawson",
+          "channel": "DAZN 1"
         },
         {
           "discipline": "Fútbol",
@@ -713,5 +720,5 @@
       ]
     }
   ],
-  "timestamp": 1704031932499
+  "timestamp": 1704039437154
 }
