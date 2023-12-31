@@ -1,39 +1,6 @@
 {
   "data": [
     {
-      "date": "Domingo31 de Diciembre de 2023",
-      "events": [
-        {
-          "discipline": "NFL",
-          "hour": "02:15",
-          "competition": "LIGA REGULAR",
-          "teams": "Dallas Cowboys-Detroit Lions",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "12:30",
-          "competition": "LIGA ENDESA",
-          "teams": "Real Madrid-Valencia Basket",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "15:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Fulham-Arsenal",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "15:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Tottenham-Bournemouth",
-          "channel": "DAZN 2"
-        }
-      ]
-    },
-    {
       "date": "Lunes1 de Enero de 2024",
       "events": [
         {
@@ -720,5 +687,5 @@
       ]
     }
   ],
-  "timestamp": 1704039437154
+  "timestamp": 1704046612172
 }
