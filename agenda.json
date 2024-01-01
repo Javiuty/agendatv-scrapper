@@ -1,32 +1,6 @@
 {
   "data": [
     {
-      "date": "Lunes1 de Enero de 2024",
-      "events": [
-        {
-          "discipline": "Fútbol",
-          "hour": "18:15",
-          "competition": "CHAMPIONSHIP",
-          "teams": "Sheffield Wed-Hull",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "PREMIER LEAGUE",
-          "teams": "Liverpool-Newcastle",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "NHL",
-          "hour": "21:00",
-          "competition": "WINTER CLASSIC",
-          "teams": "Seattle Kraken-Vegas Golden Knights",
-          "channel": "M+ Vamos"
-        }
-      ]
-    },
-    {
       "date": "Martes2 de Enero de 2024",
       "events": [
         {
@@ -715,5 +689,5 @@
       ]
     }
   ],
-  "timestamp": 1704133092104
+  "timestamp": 1704140091369
 }
