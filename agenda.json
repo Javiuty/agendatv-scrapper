@@ -37,6 +37,13 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "Tenis",
+          "hour": "09:30",
+          "competition": "ATP BRISBANE",
+          "teams": "Thiem-Nadal",
+          "channel": "Movistar Plus+"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "17:00",
           "competition": "LALIGA EA SPORTS",
@@ -587,6 +594,13 @@
           "channel": "DAZN 1"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "EUROPEAN LEAGUE FEMENINA",
+          "teams": "Málaga-Sola",
+          "channel": "DAZN 2"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "18:00",
           "competition": "SERIE A",
@@ -687,5 +701,5 @@
       ]
     }
   ],
-  "timestamp": 1704104151003
+  "timestamp": 1704112032280
 }
