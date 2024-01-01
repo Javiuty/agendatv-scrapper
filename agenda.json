@@ -344,6 +344,13 @@
           "channel": "Teledeporte"
         },
         {
+          "discipline": "Rugby",
+          "hour": "16:05",
+          "competition": "PREMIERSHIP",
+          "teams": "Leicester Tigers-Saracens",
+          "channel": "M+ Deportes 3"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "17:00",
           "competition": "COPA DEL REY",
@@ -405,6 +412,13 @@
           "competition": "LIGA F",
           "teams": "Barcelona-Levante Las Planas",
           "channel": "DAZN"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "19:00",
+          "competition": "TORNEO INTERNACIONAL",
+          "teams": "España-Serbia",
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -701,5 +715,5 @@
       ]
     }
   ],
-  "timestamp": 1704118404810
+  "timestamp": 1704125888759
 }
