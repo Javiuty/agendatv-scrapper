@@ -83,7 +83,7 @@
           "hour": "18:30",
           "competition": "CHAMPIONS LEAGUE",
           "teams": "Pinar Karsiyaka-Breogán",
-          "channel": "TVG"
+          "channel": "Teledeporte"
         },
         {
           "discipline": "Fútbol",
@@ -689,5 +689,5 @@
       ]
     }
   ],
-  "timestamp": 1704204814573
+  "timestamp": 1704212225098
 }
