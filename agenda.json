@@ -107,6 +107,13 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "Tenis",
+          "hour": "09:30",
+          "competition": "ATP BRISBANE",
+          "teams": "Kubler-Nadal",
+          "channel": "Movistar Plus+"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "17:00",
           "competition": "LALIGA EA SPORTS",
@@ -211,7 +218,7 @@
         },
         {
           "discipline": "Motor",
-          "hour": "21:00",
+          "hour": "21:45",
           "competition": "DAKAR",
           "teams": "Al Ula-Al Ula, 28.0 km",
           "channel": "Teledeporte"
@@ -584,6 +591,13 @@
           "channel": "M+ Vamos"
         },
         {
+          "discipline": "NFL",
+          "hour": "19:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Tennessee Titans-Jacksonville Jaguars",
+          "channel": "M+ Deportes 5"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "20:00",
           "competition": "LIGA F",
@@ -642,5 +656,5 @@
       ]
     }
   ],
-  "timestamp": 1704284853553
+  "timestamp": 1704291216956
 }
