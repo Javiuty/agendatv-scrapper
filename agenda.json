@@ -341,13 +341,6 @@
           "channel": "DAZN"
         },
         {
-          "discipline": "Balonmano",
-          "hour": "19:00",
-          "competition": "TORNEO INTERNACIONAL",
-          "teams": "España-Serbia",
-          "channel": "Teledeporte"
-        },
-        {
           "discipline": "Fútbol",
           "hour": "19:00",
           "competition": "COPA DEL REY",
@@ -383,18 +376,18 @@
           "channel": "M+ Vamos"
         },
         {
-          "discipline": "Motor",
-          "hour": "21:00",
-          "competition": "DAKAR",
-          "teams": "Al Ula-Al Henakiyah, 414.0 km",
-          "channel": "Teledeporte"
-        },
-        {
           "discipline": "Fútbol",
           "hour": "21:30",
           "competition": "COPA DEL REY",
           "teams": "Arandina-Real Madrid",
           "channel": "LA 1"
+        },
+        {
+          "discipline": "Motor",
+          "hour": "21:45",
+          "competition": "DAKAR",
+          "teams": "Al Ula-Al Henakiyah, 414.0 km",
+          "channel": "Teledeporte"
         }
       ]
     },
@@ -656,5 +649,5 @@
       ]
     }
   ],
-  "timestamp": 1704305928398
+  "timestamp": 1704312904276
 }
