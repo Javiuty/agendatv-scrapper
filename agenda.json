@@ -631,9 +631,16 @@
           "competition": "COPA DEL REY",
           "teams": "Tenerife-Las Palmas",
           "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "22:25",
+          "competition": "LIGA REGULAR",
+          "teams": "Green Bay Packers-Chicago Bears",
+          "channel": "M+ Deportes"
         }
       ]
     }
   ],
-  "timestamp": 1704276949848
+  "timestamp": 1704284853553
 }
