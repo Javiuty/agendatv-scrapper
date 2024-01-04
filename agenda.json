@@ -369,6 +369,13 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "LIGA FEMENINA",
+          "teams": "Araski-Uni Girona",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "14:00",
           "competition": "LIGA F",
@@ -534,13 +541,6 @@
           "hour": "21:00",
           "competition": "COPA DEL REY",
           "teams": "Málaga-Real Sociedad",
-          "channel": "LA 2"
-        },
-        {
-          "discipline": "Motor",
-          "hour": "21:00",
-          "competition": "DAKAR",
-          "teams": "Al Henakiyah-Ad Dawadimi, 470.0 km",
           "channel": "Teledeporte"
         },
         {
@@ -560,5 +560,5 @@
       ]
     }
   ],
-  "timestamp": 1704392307581
+  "timestamp": 1704399333198
 }
