@@ -1,74 +1,6 @@
 {
   "data": [
     {
-      "date": "Jueves4 de Enero de 2024",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:00",
-          "competition": "LIGA REGULAR",
-          "teams": "Indiana Pacers-Milwaukee Bucks",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "09:30",
-          "competition": "ATP BRISBANE",
-          "teams": "Kubler-Nadal",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "17:00",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Osasuna-Almería",
-          "channel": "DAZN LALIGA 2"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "18:00",
-          "competition": "TORNEO INTERNACIONAL",
-          "teams": "España-Polonia",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "19:15",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Sevilla-Athletic Club",
-          "channel": "DAZN LALIGA"
-        },
-        {
-          "discipline": "Waterpolo",
-          "hour": "20:15",
-          "competition": "EUROPEO",
-          "teams": "España-Croacia",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "FA CUP",
-          "teams": "Crystal Palace-Everton",
-          "channel": "DAZN 2"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "COPA ITALIA",
-          "teams": "Juventus-Salernitana",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:30",
-          "competition": "LALIGA EA SPORTS",
-          "teams": "Las Palmas-Barcelona",
-          "channel": "M+ LALIGA TV"
-        }
-      ]
-    },
-    {
       "date": "Viernes5 de Enero de 2024",
       "events": [
         {
@@ -560,5 +492,5 @@
       ]
     }
   ],
-  "timestamp": 1704399333198
+  "timestamp": 1704406444064
 }
