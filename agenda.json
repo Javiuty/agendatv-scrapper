@@ -79,6 +79,13 @@
           "channel": "M+ Deportes"
         },
         {
+          "discipline": "Tenis",
+          "hour": "11:00",
+          "competition": "ATP BRISBANE",
+          "teams": "Nadal-Thompson",
+          "channel": "Movistar Plus+"
+        },
+        {
           "discipline": "Waterpolo",
           "hour": "16:30",
           "competition": "EUROPEO FEMENINO",
@@ -553,5 +560,5 @@
       ]
     }
   ],
-  "timestamp": 1704363338867
+  "timestamp": 1704371219847
 }
