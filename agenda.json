@@ -198,6 +198,13 @@
           "channel": "M+ Liga de Campeones 2"
         },
         {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "LIGA F",
+          "teams": "Villarreal-Levante",
+          "channel": "DAZN"
+        },
+        {
           "discipline": "Waterpolo",
           "hour": "20:30",
           "competition": "EUROPEO FEMENINO",
@@ -449,13 +456,6 @@
         },
         {
           "discipline": "Fútbol",
-          "hour": "20:30",
-          "competition": "LIGA F",
-          "teams": "Villarreal-Levante",
-          "channel": "DAZN"
-        },
-        {
-          "discipline": "Fútbol",
           "hour": "20:45",
           "competition": "SERIE A",
           "teams": "Roma-Atalanta",
@@ -492,5 +492,5 @@
       ]
     }
   ],
-  "timestamp": 1704478685421
+  "timestamp": 1704485716569
 }
