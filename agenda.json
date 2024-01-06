@@ -1,74 +1,6 @@
 {
   "data": [
     {
-      "date": "Viernes5 de Enero de 2024",
-      "events": [
-        {
-          "discipline": "NBA",
-          "hour": "01:30",
-          "competition": "LIGA REGULAR",
-          "teams": "San Antonio Spurs-Milwaukee Bucks",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Tenis",
-          "hour": "11:00",
-          "competition": "ATP BRISBANE",
-          "teams": "Nadal-Thompson",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Waterpolo",
-          "hour": "16:30",
-          "competition": "EUROPEO FEMENINO",
-          "teams": "España-Francia",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Balonmano",
-          "hour": "20:00",
-          "competition": "TORNEO INTERNACIONAL",
-          "teams": "España-Eslovaquia",
-          "channel": "Teledeporte"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Valencia Basket-Panathinaikos",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:30",
-          "competition": "EUROLIGA",
-          "teams": "Barcelona-Baskonia",
-          "channel": "Movistar Plus+"
-        },
-        {
-          "discipline": "Baloncesto",
-          "hour": "20:45",
-          "competition": "EUROLIGA",
-          "teams": "Real Madrid-Anadolu Efes",
-          "channel": "M+ Deportes"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "21:00",
-          "competition": "FA CUP",
-          "teams": "Tottenham-Burnley",
-          "channel": "DAZN 1"
-        },
-        {
-          "discipline": "Motor",
-          "hour": "21:45",
-          "competition": "DAKAR",
-          "teams": "Al Ula-Al Ula, 28.0 km",
-          "channel": "Teledeporte"
-        }
-      ]
-    },
-    {
       "date": "Sábado6 de Enero de 2024",
       "events": [
         {
@@ -492,5 +424,5 @@
       ]
     }
   ],
-  "timestamp": 1704492840489
+  "timestamp": 1704503102612
 }
