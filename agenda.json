@@ -1,52 +1,66 @@
 {
   "data": [
     {
-      "date": "Lunes8 de Enero de 2024",
+      "date": "Martes9 de Enero de 2024",
       "events": [
         {
-          "discipline": "NFL",
-          "hour": "02:20",
+          "discipline": "NBA",
+          "hour": "02:00",
           "competition": "LIGA REGULAR",
-          "teams": "Miami Dolphins-Buffalo Bills",
-          "channel": "M+ Vamos"
-        },
-        {
-          "discipline": "Fútbol",
-          "hour": "16:30",
-          "competition": "COPA DEL REY",
-          "teams": "Unionistas-Villarreal",
-          "channel": "M+ Liga de Campeones"
+          "teams": "Milwaukee Bucks-Utah Jazz",
+          "channel": "M+ Deportes"
         },
         {
           "discipline": "Waterpolo",
-          "hour": "17:45",
-          "competition": "EUROPEO",
-          "teams": "España-Francia",
+          "hour": "16:00",
+          "competition": "EUROPEO FEMENINO",
+          "teams": "España-Croacia",
           "channel": "Teledeporte"
         },
         {
-          "discipline": "Fútbol",
-          "hour": "18:30",
-          "competition": "COPA DEL REY",
-          "teams": "Sorteo Octavos de Final",
-          "channel": "M+ Vamos"
+          "discipline": "Baloncesto",
+          "hour": "19:00",
+          "competition": "EUROLIGA",
+          "teams": "Mónaco-Baskonia",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:00",
+          "competition": "EUROLIGA",
+          "teams": "Bayern-Real Madrid",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Valencia Basket-Zalgiris Kaunas",
+          "channel": "M+ Deportes 2"
         },
         {
           "discipline": "Fútbol",
-          "hour": "21:15",
-          "competition": "FA CUP",
-          "teams": "Wigan-Manchester Utd",
+          "hour": "21:00",
+          "competition": "COPA ITALIA",
+          "teams": "Fiorentina-Bolonia",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "EFL CUP",
+          "teams": "Middlesbrough-Chelsea",
           "channel": "DAZN 1"
         },
         {
           "discipline": "Motor",
           "hour": "21:45",
           "competition": "DAKAR",
-          "teams": "Ad Dawadimi-Al Salamiya, 295.0 km",
+          "teams": "Al Salamiya-Al-Hofuf, 299.0 km",
           "channel": "Teledeporte"
         }
       ]
     }
   ],
-  "timestamp": 1704737957142
+  "timestamp": 1704744966838
 }
