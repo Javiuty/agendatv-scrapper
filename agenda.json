@@ -60,7 +60,136 @@
           "channel": "Teledeporte"
         }
       ]
+    },
+    {
+      "date": "Miércoles10 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Orlando Magic-Minnesota Timberwolves",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "18:00",
+          "competition": "COPA ITALIA",
+          "teams": "Lazio-Roma",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "EUROPEO",
+          "teams": "Francia-Macedonia del Norte",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "19:00",
+          "competition": "EUROCUP FEMENINA",
+          "teams": "Cadi La Seu-Uni Girona",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:00",
+          "competition": "SUPERCOPA",
+          "teams": "Real Madrid-Atlético de Madrid",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Barcelona-Olympiacos",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "CHAMPIONS LEAGUE",
+          "teams": "Breogán-Pinar Karsiyaka",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA ITALIA",
+          "teams": "AC Milan-Atalanta",
+          "channel": "DAZN 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "EFL CUP",
+          "teams": "Liverpool-Fulham",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Motor",
+          "hour": "22:30",
+          "competition": "DAKAR",
+          "teams": "Al-Hofuf-Shaybah, 118.0 km",
+          "channel": "Teledeporte"
+        }
+      ]
+    },
+    {
+      "date": "Jueves11 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Boston Celtics-Minnesota Timberwolves",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:00",
+          "competition": "SUPERCOPA",
+          "teams": "Barcelona-Osasuna",
+          "channel": "M+ Supercopa de España"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "20:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Cleveland Cavaliers-Brooklyn Nets",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:30",
+          "competition": "EUROPEO",
+          "teams": "Noruega-Polonia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:45",
+          "competition": "EUROLIGA",
+          "teams": "Real Madrid-Valencia Basket",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "COPA ITALIA",
+          "teams": "Juventus-Frosinone",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Motor",
+          "hour": "22:05",
+          "competition": "DAKAR",
+          "teams": "Shaybah-Shaybah (Marathon), 572.0 km",
+          "channel": "Teledeporte"
+        }
+      ]
     }
   ],
-  "timestamp": 1704744966838
+  "timestamp": 1704751971919
 }
