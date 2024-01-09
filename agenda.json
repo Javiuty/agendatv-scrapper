@@ -189,7 +189,75 @@
           "channel": "Teledeporte"
         }
       ]
+    },
+    {
+      "date": "Viernes12 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "01:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Milwaukee Bucks-Boston Celtics",
+          "channel": "M+ Deportes"
+        },
+        {
+          "discipline": "Ciclismo",
+          "hour": "03:00",
+          "competition": "TOUR DOWN UNDER FEMENINO",
+          "teams": "Hahndorf-Campbelltown, 93 km.",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "BUNDESLIGA",
+          "teams": "Bayern Múnich-Hoffenheim",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "20:30",
+          "competition": "EUROPEO",
+          "teams": "España-Croacia",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Barcelona-Zalgiris Kaunas",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:30",
+          "competition": "EUROLIGA",
+          "teams": "Baskonia-Olympiacos",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:30",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Eibar-Racing",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LIGUE 1",
+          "teams": "Marsella-Estrasburgo",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "21:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Sevilla-Alavés",
+          "channel": "DAZN LALIGA"
+        }
+      ]
     }
   ],
-  "timestamp": 1704795382244
+  "timestamp": 1704803306016
 }
