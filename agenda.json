@@ -432,7 +432,208 @@
           "channel": "M+ Deportes 3"
         }
       ]
+    },
+    {
+      "date": "Domingo14 de Enero de 2024",
+      "events": [
+        {
+          "discipline": "NBA",
+          "hour": "02:00",
+          "competition": "LIGA REGULAR",
+          "teams": "Milwaukee Bucks-Golden State Warriors",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "02:00",
+          "competition": "WILD CARD",
+          "teams": "Kansas City Chiefs-Miami Dolphins",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Ciclismo",
+          "hour": "03:00",
+          "competition": "TOUR DOWN UNDER FEMENINO",
+          "teams": "Adelaide-Willunga, 93 km.",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:00",
+          "competition": "COPA DE LA REINA",
+          "teams": "Levante Las Planas-Sevilla",
+          "channel": "Esport 3"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "12:00",
+          "competition": "EUROPEAN LEAGUE FEMENINA",
+          "teams": "Targu Jiu-Málaga",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "12:30",
+          "competition": "SERIE A",
+          "teams": "Lazio-Lecce",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "LIGA ENDESA",
+          "teams": "Granada-Obradoiro",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "12:30",
+          "competition": "LIGA ENDESA",
+          "teams": "UCAM Murcia-Real Madrid",
+          "channel": "Movistar Plus+"
+        },
+        {
+          "discipline": "Rugby",
+          "hour": "14:00",
+          "competition": "CHAMPIONS CUP",
+          "teams": "Bath-Racing 92",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Almería-Girona",
+          "channel": "GOL PLAY"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "14:00",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Andorra-Leganés",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "15:00",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Everton-Aston Villa",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:15",
+          "competition": "LALIGA EA SPORTS",
+          "teams": "Cádiz-Valencia",
+          "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:15",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Cartagena-Villarreal B",
+          "channel": "LALIGA TV HYPERMOTION 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "16:15",
+          "competition": "LALIGA HYPERMOTION",
+          "teams": "Real Sporting-Huesca",
+          "channel": "LALIGA TV HYPERMOTION"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Valencia Basket-Breogán",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "17:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Manresa-Baskonia",
+          "channel": "M+ Deportes 3"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:30",
+          "competition": "PREMIER LEAGUE",
+          "teams": "Manchester Utd-Tottenham",
+          "channel": "DAZN 1"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "17:30",
+          "competition": "BUNDESLIGA",
+          "teams": "Borussia M'gladbach-Stuttgart",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "18:00",
+          "competition": "LIGA ENDESA",
+          "teams": "Lenovo Tenerife-Barcelona",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "EUROPEO",
+          "teams": "Rumanía-España",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "19:00",
+          "competition": "WILD CARD",
+          "teams": "Buffalo Bills-Pittsburgh Steelers",
+          "channel": "M+ Deportes 2"
+        },
+        {
+          "discipline": "Baloncesto",
+          "hour": "20:00",
+          "competition": "LIGA FEMENINA",
+          "teams": "Uni Girona-Ensino",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "LIGUE 1",
+          "teams": "Lens-PSG",
+          "channel": "Eurosport 2"
+        },
+        {
+          "discipline": "Fútbol",
+          "hour": "20:45",
+          "competition": "SERIE A",
+          "teams": "AC Milan-Roma",
+          "channel": "M+ Liga de Campeones"
+        },
+        {
+          "discipline": "NBA",
+          "hour": "21:30",
+          "competition": "LIGA REGULAR",
+          "teams": "Denver Nuggets-Indiana Pacers",
+          "channel": "M+ Vamos"
+        },
+        {
+          "discipline": "Motor",
+          "hour": "22:00",
+          "competition": "DAKAR",
+          "teams": "Riyadh-Ad Dawadimi, 483.0 km",
+          "channel": "Teledeporte"
+        },
+        {
+          "discipline": "NFL",
+          "hour": "22:30",
+          "competition": "WILD CARD",
+          "teams": "Dallas Cowboys-Green Bay Packers",
+          "channel": "M+ Deportes"
+        }
+      ]
     }
   ],
-  "timestamp": 1704881763780
+  "timestamp": 1704889725525
 }
