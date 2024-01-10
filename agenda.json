@@ -79,6 +79,13 @@
           "channel": "Teledeporte"
         },
         {
+          "discipline": "Balonmano",
+          "hour": "18:00",
+          "competition": "EUROPEO",
+          "teams": "Islandia-Serbia",
+          "channel": "Teledeporte"
+        },
+        {
           "discipline": "Fútbol",
           "hour": "20:30",
           "competition": "BUNDESLIGA",
@@ -126,6 +133,13 @@
           "competition": "LALIGA EA SPORTS",
           "teams": "Sevilla-Alavés",
           "channel": "DAZN LALIGA"
+        },
+        {
+          "discipline": "Motor",
+          "hour": "22:15",
+          "competition": "DAKAR",
+          "teams": "Shaybah-Shaybah (Marathon), 572.0 km",
+          "channel": "Teledeporte"
         }
       ]
     },
@@ -560,5 +574,5 @@
       ]
     }
   ],
-  "timestamp": 1704917760810
+  "timestamp": 1704924849880
 }
